@@ -1,0 +1,19 @@
+# Write your MySQL query statement below
+with recursive t1 as (
+    select 1 as month
+    union all
+    select month + 1
+    from t1 
+    where month < 12
+), t2 as (
+    select month, left(date_add('2019-12-01', interval month month), 7) as 'year_month'
+    from t1
+)
+
+select month, 
+ifnull(round(count(distinct a.driver_id)/
+count(distinct d.driver_id)*100, 2), 0.00)   as 'working_percentage'
+from t2 left join Drivers d on date_format(join_date, '%Y-%m') <= t2.year_month
+left join Rides r on date_format(requested_at, '%Y-%m') = t2.year_month
+left join AcceptedRides a on r.ride_id = a.ride_id
+group by month
