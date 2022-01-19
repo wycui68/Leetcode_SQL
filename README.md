@@ -9,3 +9,5 @@
 |1709 | Medium | [Biggest Window Between Visits](https://github.com/wycui68/Leetcode_SQL/blob/53db8f3aa72db3a27b936473ad78195373fcfdaf/SQL/1709.%20Biggest%20Window%20Between%20Visits) |Lead, Coalesce| 
 |1699 | Medium | [Count Apples and Oranges](https://github.com/wycui68/Leetcode_SQL/blob/53db8f3aa72db3a27b936473ad78195373fcfdaf/SQL/1715.%20Count%20Apples%20and%20Oranges) | | 
 |1747| Medium |[Leetflex Banned Accounts](https://github.com/wycui68/Leetcode_SQL/blob/d31162b2c9c16b2b80219e2a65777dc5777a646a/SQL/1747.%20Leetflex%20Banned%20Accounts)| Join|
+|1777|Easy|[Product's Price for Each Store](https://github.com/wycui68/Leetcode_SQL/blob/f0dec732fef1d38619ead910e568599d4c3e5d17/SQL/1777.%20Product's%20Price%20for%20Each%20Store)|aggregation|
+|1783|Medium|[Grand Slam Titles](https://github.com/wycui68/Leetcode_SQL/blob/f0dec732fef1d38619ead910e568599d4c3e5d17/SQL/1783.%20Grand%20Slam%20Titles)|Union|
