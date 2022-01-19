@@ -1,0 +1,10 @@
+# Write your MySQL query statement below
+select product_id, 
+sum((case when store = 'store1' then price end)) store1, 
+sum((case when store = 'store2' then price end)) store2, 
+sum((case when store = 'store3' then price end)) store3
+from Products
+group by product_id
+
+# sum() ignore null value if any row has a null value
+# but if all the rows are null value, sum() will return null
