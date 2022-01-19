@@ -1,0 +1,19 @@
+# Write your MySQL query statement below
+select t2.player_id, t2.player_name, 
+count(*) as 'grand_slams_count'
+from  
+(
+    select year, 'Wimbledon' as game, Wimbledon as player_id
+    from Championships 
+    union all 
+    select year, 'Fr_open' as game, Fr_open as player_id
+    from Championships 
+    union all 
+    select year, 'US_open' as game, US_open as player_id
+    from Championships
+    union all
+    select year, 'Au_open' as game, Au_open as player_id
+    from Championships
+) t1 left join Players t2 on t1.player_id = t2.player_id
+
+group by t2.player_id;
