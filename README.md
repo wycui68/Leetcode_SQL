@@ -11,3 +11,5 @@
 |1747| Medium |[Leetflex Banned Accounts](https://github.com/wycui68/Leetcode_SQL/blob/d31162b2c9c16b2b80219e2a65777dc5777a646a/SQL/1747.%20Leetflex%20Banned%20Accounts)| Join|
 |1777|Easy|[Product's Price for Each Store](https://github.com/wycui68/Leetcode_SQL/blob/f0dec732fef1d38619ead910e568599d4c3e5d17/SQL/1777.%20Product's%20Price%20for%20Each%20Store)|aggregation|
 |1783|Medium|[Grand Slam Titles](https://github.com/wycui68/Leetcode_SQL/blob/f0dec732fef1d38619ead910e568599d4c3e5d17/SQL/1783.%20Grand%20Slam%20Titles)|Union|
+|1789|Easy|[Primary Department for Each Employee](https://github.com/wycui68/Leetcode_SQL/blob/d18438c9975eed495a3fa2815f80e8d81151c744/SQL/1789.%20Primary%20Department%20for%20Each%20Employee)|Subquery|
+|1795|Easy|[Rearrange Products Table](https://github.com/wycui68/Leetcode_SQL/blob/d18438c9975eed495a3fa2815f80e8d81151c744/SQL/1795.%20Rearrange%20Products%20Table)|Union|
