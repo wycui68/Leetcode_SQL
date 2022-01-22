@@ -1,0 +1,10 @@
+# Write your MySQL query statement below
+select session_id
+from Playback 
+where session_id not in 
+    (
+    select distinct session_id
+    from Ads t1 left join Playback t2
+    on t1.customer_id = t2.customer_id 
+    and timestamp >= start_time and timestamp <= end_time
+    );
