@@ -1,0 +1,34 @@
+# Write your MySQL query statement below
+with table1 as 
+    (
+    select contest_id, gold_medal as 'winner'
+    from Contests
+    group by contest_id 
+    union all 
+    select contest_id, silver_medal as 'winner'
+    from Contests
+    group by contest_id
+    union all
+    select contest_id, bronze_medal as 'winner'
+    from Contests
+    group by contest_id
+    )
+
+select distinct t3.name, t3.mail 
+from 
+(
+    select distinct winner
+    from 
+    (
+    select winner, contest_id,
+    dense_rank() over(partition by winner order by contest_id) as 'row_num'
+    from table1 
+    ) t1
+    group by winner, contest_id - row_num
+    having count(*) >= 3
+    union all 
+    select gold_medal as 'winner'
+    from Contests
+    group by gold_medal 
+    having count(distinct contest_id) >= 3
+) t2 left join Users t3 on t2.winner = t3.user_id 
