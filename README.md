@@ -2,6 +2,7 @@
 
 | Number| Difficulty |Title|Key Points|
 | ---   | ---        | --- | ---      |
+|1479|Hard|[Sales by Day of the Week](https://github.com/wycui68/Leetcode_SQL/blob/4a29aaf372cc5c3987024ba34d0b7f0105679850/SQL/1479.%20Sales%20by%20Day%20of%20the%20Week)|case when|
 |1635| Hard | [Hopper Company Queries I](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1635.%20Hopper%20Company%20Queries%20I)|Recursive CTE|
 |1645| Hard | [Hopper Company Queries II](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1645.%20Hopper%20Company%20Queries%20II)|Recursive CTE|
 |1651| Hard | [Hopper Company Queries III](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1651.%20Hopper%20Company%20Queries%20III) |Recursive CTE, window function|
@@ -13,3 +14,5 @@
 |1783|Medium|[Grand Slam Titles](https://github.com/wycui68/Leetcode_SQL/blob/f0dec732fef1d38619ead910e568599d4c3e5d17/SQL/1783.%20Grand%20Slam%20Titles)|Union|
 |1789|Easy|[Primary Department for Each Employee](https://github.com/wycui68/Leetcode_SQL/blob/d18438c9975eed495a3fa2815f80e8d81151c744/SQL/1789.%20Primary%20Department%20for%20Each%20Employee)|Subquery|
 |1795|Easy|[Rearrange Products Table](https://github.com/wycui68/Leetcode_SQL/blob/d18438c9975eed495a3fa2815f80e8d81151c744/SQL/1795.%20Rearrange%20Products%20Table)|Union|
+|1809|Easy|[Ad-Free Sessions]()|subquery|
+|1811|Medium|[Find Interview Candidates](https://github.com/wycui68/Leetcode_SQL/blob/4a29aaf372cc5c3987024ba34d0b7f0105679850/SQL/1811.%20Find%20Interview%20Candidates)|window function, union|
