@@ -16,3 +16,7 @@
 |1795|Easy|[Rearrange Products Table](https://github.com/wycui68/Leetcode_SQL/blob/d18438c9975eed495a3fa2815f80e8d81151c744/SQL/1795.%20Rearrange%20Products%20Table)|Union|
 |1809|Easy|[Ad-Free Sessions]()|subquery|
 |1811|Medium|[Find Interview Candidates](https://github.com/wycui68/Leetcode_SQL/blob/4a29aaf372cc5c3987024ba34d0b7f0105679850/SQL/1811.%20Find%20Interview%20Candidates)|window function, union|
+|1821|Easy|[Find Customers With Positive Revenue this Year](https://github.com/wycui68/Leetcode_SQL/blob/52471b1af018a875832fbd5a6c9d462c52a88ab0/SQL/1821.%20Find%20Customers%20With%20Positive%20Revenue%20this%20Year)| |
+|1831|Medium|[Maximum Transaction Each Day](https://github.com/wycui68/Leetcode_SQL/blob/52471b1af018a875832fbd5a6c9d462c52a88ab0/SQL/1831.%20Maximum%20Transaction%20Each%20Day)|cast, window function|
+
+
