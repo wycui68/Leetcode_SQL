@@ -1,0 +1,13 @@
+select transaction_id
+from 
+(
+    select transaction_id, 
+    dense_rank() over(partition by day order by amount desc) as 'rnk'
+    from 
+        (
+        select transaction_id, cast(day as Date) as day, amount
+        from Transactions
+        ) t1
+) t2
+where rnk = 1
+order by transaction_id
