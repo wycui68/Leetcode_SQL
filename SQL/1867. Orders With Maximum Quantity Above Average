@@ -1,0 +1,8 @@
+# Write your MySQL query statement below
+
+select distinct order_id
+from OrdersDetails
+group by order_id
+having max(quantity) > all (select sum(quantity)/count(distinct product_id)
+                        from OrdersDetails
+                        group by order_id);
