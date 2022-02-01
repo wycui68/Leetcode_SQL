@@ -1,0 +1,16 @@
+# Write your MySQL query statement below
+with cet as 
+(
+    select t1.account_id, date_format(day, '%Y%m') as 'year_month', 
+    (case when sum(amount) > max_income then 'exceed' end) as 'exceed'
+    from Transactions t1 left join Accounts t2
+    on t1.account_id = t2.account_id
+    where type = 'Creditor'
+    group by t1.account_id, date_format(day, '%Y%m')
+)
+
+select distinct c1.account_id
+from cet c1 join cet c2
+on c1.account_id = c2.account_id 
+and c1.exceed = c2.exceed and period_diff(c1.year_month, c2.year_month) = 1
+order by c1.account_id;
