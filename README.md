@@ -18,5 +18,13 @@
 |1811|Medium|[Find Interview Candidates](https://github.com/wycui68/Leetcode_SQL/blob/4a29aaf372cc5c3987024ba34d0b7f0105679850/SQL/1811.%20Find%20Interview%20Candidates)|window function, union|
 |1821|Easy|[Find Customers With Positive Revenue this Year](https://github.com/wycui68/Leetcode_SQL/blob/52471b1af018a875832fbd5a6c9d462c52a88ab0/SQL/1821.%20Find%20Customers%20With%20Positive%20Revenue%20this%20Year)| |
 |1831|Medium|[Maximum Transaction Each Day](https://github.com/wycui68/Leetcode_SQL/blob/52471b1af018a875832fbd5a6c9d462c52a88ab0/SQL/1831.%20Maximum%20Transaction%20Each%20Day)|cast, window function|
+|1841|Medium|[League Statistics](https://github.com/wycui68/Leetcode_SQL/blob/2372b372664058985e16b005e8b7f2a90979de28/SQL/1841.%20League%20Statistics)|inner join|
+|1843|Medium|[Suspicious Bank Accounts](https://github.com/wycui68/Leetcode_SQL/blob/2372b372664058985e16b005e8b7f2a90979de28/SQL/1843.%20Suspicious%20Bank%20Accounts)|连续日期|
+|1853|Easy|[Convert Date Format](https://github.com/wycui68/Leetcode_SQL/blob/2372b372664058985e16b005e8b7f2a90979de28/SQL/1853.%20Convert%20Date%20Format)|date format, concat|
+|1867|Medium|[Orders With Maximum Quantity Above Average](https://github.com/wycui68/Leetcode_SQL/blob/2372b372664058985e16b005e8b7f2a90979de28/SQL/1867.%20Orders%20With%20Maximum%20Quantity%20Above%20Average)|ALL operators in subquery|
+
+
+
+
 
 
