@@ -1,0 +1,16 @@
+# Write your MySQL query statement below
+with cet as (
+select salary, dense_rank() over(order by salary) as 'rnk'
+from
+    (
+        select salary
+        from Employees
+        group by salary
+        having count(distinct employee_id) >= 2
+    ) t1
+)
+
+select e.employee_id, name, e.salary, rnk as team_id
+from cet c left join Employees e
+on c.salary = e.salary
+order by team_id, employee_id;
