@@ -23,6 +23,7 @@
 |1853|Easy|[Convert Date Format](https://github.com/wycui68/Leetcode_SQL/blob/2372b372664058985e16b005e8b7f2a90979de28/SQL/1853.%20Convert%20Date%20Format)|date format, concat|
 |1867|Medium|[Orders With Maximum Quantity Above Average](https://github.com/wycui68/Leetcode_SQL/blob/2372b372664058985e16b005e8b7f2a90979de28/SQL/1867.%20Orders%20With%20Maximum%20Quantity%20Above%20Average)|ALL operators in subquery|
 |1875|Medium|[Group Employees of the Same Salary](https://github.com/wycui68/Leetcode_SQL/blob/0f48dbc04abe4df163d52a0ad2e0a63c34f8e133/SQL/1875.%20Group%20Employees%20of%20the%20Same%20Salary)|window function|
+|1892|Hard|[Page Recommendations II](https://github.com/wycui68/Leetcode_SQL/blob/28151836396b52a6f2390fd80538906c6adc51bc/SQL/1892.%20Page%20Recommendations%20II)|Join|
 
 
 
