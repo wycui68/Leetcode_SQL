@@ -1,0 +1,26 @@
+with cet as 
+    (
+        select distinct 'Low Salary' as category
+        from Accounts
+        union all 
+        select distinct 'Average Salary' as category
+        from Accounts
+        union all
+        select distinct 'High Salary' as category
+        from Accounts
+    )
+    
+select c.category, ifnull(cnt, 0) as 'accounts_count'
+from cet c left join 
+(
+        select account_id, category, count(distinct account_id) as cnt
+        from 
+        (
+        select account_id, 
+            (case when income < 20000 then 'Low Salary'
+                 when income > 50000 then 'High Salary'
+                 else 'Average Salary'end) as category
+        from Accounts
+        ) t1
+        group by category
+) t2 on c.category = t2.category;
