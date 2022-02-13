@@ -27,6 +27,8 @@
 |1907|Medium|[Count Salary Categories](https://github.com/wycui68/Leetcode_SQL/blob/a5bf8963c130325c6e996318b37da3403eeb8c1d/SQL/1907.%20Count%20Salary%20Categories)|Case when|
 |1917|Hard|[Leetcodify Friends Recommendations](https://github.com/wycui68/Leetcode_SQL/blob/a5bf8963c130325c6e996318b37da3403eeb8c1d/SQL/1917.%20Leetcodify%20Friends%20Recommendations)|Join, union |
 |1919|Hard|[Leetcodify Similar Friends](https://github.com/wycui68/Leetcode_SQL/blob/bb63ec10bfb2af94817b2f39488eefc273528c03/SQL/1919.%20Leetcodify%20Similar%20Friends)|1917类似题|
+|1934|Medium|[Confirmation Rate](https://github.com/wycui68/Leetcode_SQL/blob/6c6d1d9f70e06e2ebc774143480dd4a0ffb4f15c/SQL/1934.%20Confirmation%20Rate)|case when|
+|1949|Medium|[Strong Friendship](https://github.com/wycui68/Leetcode_SQL/blob/6c6d1d9f70e06e2ebc774143480dd4a0ffb4f15c/SQL/1949.%20Strong%20Friendship)|join|
 
 
 
