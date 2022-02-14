@@ -1,0 +1,25 @@
+# approache 1
+select t1.user_id as user1_id, t2.user_id as user2_id
+from Relations t1 join Relations t2
+on t1.follower_id = t2.follower_id and t1.user_id < t2.user_id
+group by t1.user_id, t2.user_id
+having count(distinct t1.follower_id) = (select count(distinct t1.follower_id)
+                                          from Relations t1 join Relations t2
+                                          on t1.follower_id = t2.follower_id 
+                                          and t1.user_id < t2.user_id
+                                          group by t1.user_id, t2.user_id
+                                          order by count(distinct t1.follower_id) desc
+                                          limit 1
+                                         )
+# approach 2
+select user1_id, user2_id
+from 
+    (
+        select t1.user_id as user1_id, t2.user_id as user2_id,
+        dense_rank() over(order by count(distinct t1.follower_id) desc) as 'rnk'
+        from Relations t1 join Relations t2
+        on t1.follower_id = t2.follower_id and t1.user_id < t2.user_id
+        group by t1.user_id, t2.user_id
+
+    ) t
+where rnk = 1
