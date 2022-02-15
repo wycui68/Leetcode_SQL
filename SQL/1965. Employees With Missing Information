@@ -1,0 +1,17 @@
+select distinct employee_id
+from 
+    (
+        select distinct employee_id
+        from Employees
+        union all 
+        select distinct employee_id
+        from Salaries
+    ) t 
+
+where employee_id not in 
+    (
+        select distinct t1.employee_id
+        from Employees t1 join Salaries t2
+        on t1.employee_id = t2.employee_id
+    )
+order by employee_id;
