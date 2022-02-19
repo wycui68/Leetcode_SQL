@@ -1,0 +1,4 @@
+select school_id, ifnull(min(t2.score), -1) as score
+from Schools t1 left join Exam t2
+on t1.capacity >= t2.student_count
+group by school_id
