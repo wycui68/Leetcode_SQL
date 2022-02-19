@@ -31,6 +31,7 @@
 |1949|Medium|[Strong Friendship](https://github.com/wycui68/Leetcode_SQL/blob/6c6d1d9f70e06e2ebc774143480dd4a0ffb4f15c/SQL/1949.%20Strong%20Friendship)|join|
 |1951|Medium|[All the Pairs With the Maximum Number of Common Followers](https://github.com/wycui68/Leetcode_SQL/blob/62d15ff1db895259031a9f7f856e1cb1f874794f/SQL/1951.%20All%20the%20Pairs%20With%20the%20Maximum%20Number%20of%20Common%20Followers)|类似1949,dense rank/groupby|
 |1978|Easy|[Employees Whose Manager Left the Company](https://github.com/wycui68/Leetcode_SQL/blob/106ef50847880236d082459dbc65ebbb1bfc4253/SQL/1978.%20Employees%20Whose%20Manager%20Left%20the%20Company)||
+|1988|Medium|[Find Cutoff Score for Each School](https://github.com/wycui68/Leetcode_SQL/blob/74572ec5aab232371d741d03663b88708391693b/SQL/1988.%20Find%20Cutoff%20Score%20for%20Each%20School)|join|
 
 
 
