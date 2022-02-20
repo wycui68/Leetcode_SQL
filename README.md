@@ -34,7 +34,8 @@
 |1978|Easy|[Employees Whose Manager Left the Company](https://github.com/wycui68/Leetcode_SQL/blob/106ef50847880236d082459dbc65ebbb1bfc4253/SQL/1978.%20Employees%20Whose%20Manager%20Left%20the%20Company)||
 |1988|Medium|[Find Cutoff Score for Each School](https://github.com/wycui68/Leetcode_SQL/blob/74572ec5aab232371d741d03663b88708391693b/SQL/1988.%20Find%20Cutoff%20Score%20for%20Each%20School)|join|
 |1990|Medium|[Count the Number of Experiments](https://github.com/wycui68/Leetcode_SQL/blob/8dddd30ad6bcfe78bba5fd33a04d42e3fc60ccb3/SQL/1990.%20Count%20the%20Number%20of%20Experiments)|union|
-
+|2004|Hard|[The Number of Seniors and Juniors to Join the Company](https://github.com/wycui68/Leetcode_SQL/blob/b581dc91c1454cd54087137147b68f4dd8368958/SQL/2004.%20The%20Number%20of%20Seniors%20and%20Juniors%20to%20Join%20the%20Company)|window function, if|
+|2010|Hard|[The Number of Seniors and Juniors to Join the Company II](https://github.com/wycui68/Leetcode_SQL/blob/b581dc91c1454cd54087137147b68f4dd8368958/SQL/2010.%20The%20Number%20of%20Seniors%20and%20Juniors%20to%20Join%20the%20Company%20II)|2004类似题|
 
 
 
