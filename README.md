@@ -30,8 +30,10 @@
 |1934|Medium|[Confirmation Rate](https://github.com/wycui68/Leetcode_SQL/blob/6c6d1d9f70e06e2ebc774143480dd4a0ffb4f15c/SQL/1934.%20Confirmation%20Rate)|case when|
 |1949|Medium|[Strong Friendship](https://github.com/wycui68/Leetcode_SQL/blob/6c6d1d9f70e06e2ebc774143480dd4a0ffb4f15c/SQL/1949.%20Strong%20Friendship)|join|
 |1951|Medium|[All the Pairs With the Maximum Number of Common Followers](https://github.com/wycui68/Leetcode_SQL/blob/62d15ff1db895259031a9f7f856e1cb1f874794f/SQL/1951.%20All%20the%20Pairs%20With%20the%20Maximum%20Number%20of%20Common%20Followers)|类似1949,dense rank/groupby|
+|1972|Hard|[First and Last Call On the Same Day](https://github.com/wycui68/Leetcode_SQL/blob/8dddd30ad6bcfe78bba5fd33a04d42e3fc60ccb3/SQL/1972.%20First%20and%20Last%20Call%20On%20the%20Same%20Day)|rank, join|
 |1978|Easy|[Employees Whose Manager Left the Company](https://github.com/wycui68/Leetcode_SQL/blob/106ef50847880236d082459dbc65ebbb1bfc4253/SQL/1978.%20Employees%20Whose%20Manager%20Left%20the%20Company)||
 |1988|Medium|[Find Cutoff Score for Each School](https://github.com/wycui68/Leetcode_SQL/blob/74572ec5aab232371d741d03663b88708391693b/SQL/1988.%20Find%20Cutoff%20Score%20for%20Each%20School)|join|
+|1990|Medium|[Count the Number of Experiments](https://github.com/wycui68/Leetcode_SQL/blob/8dddd30ad6bcfe78bba5fd33a04d42e3fc60ccb3/SQL/1990.%20Count%20the%20Number%20of%20Experiments)|union|
 
 
 
