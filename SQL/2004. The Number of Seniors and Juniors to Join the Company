@@ -1,0 +1,19 @@
+with cet as 
+    (
+        select *, 
+        sum(salary) over(partition by experience order by salary) as 'sum_salary'
+        from Candidates
+    )
+
+select 'Senior' as 'experience', count(distinct employee_id) as 'accepted_candidates'
+from cet
+where experience = 'Senior' and sum_salary <= 70000
+
+union all
+
+select 'Junior' as 'experience', count(distinct employee_id) as 'accepted_candidates'
+from cet
+where experience = 'Junior' 
+and sum_salary <= (select 70000-if(count(employee_id)=0, 0, max(sum_salary))
+                   from cet
+                   where experience = 'Senior' and sum_salary <= 70000)
