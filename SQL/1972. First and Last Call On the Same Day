@@ -1,0 +1,19 @@
+with cet1 as (
+    select caller_id as id1, recipient_id as id2, 
+    left(call_time, 10) as call_day, right(call_time, 8) as call_time
+    from Calls
+    union all
+    select recipient_id as id1, caller_id as id2,  
+    left(call_time, 10) as call_day, right(call_time, 8) as call_time
+    from Calls
+), cet2 as (
+    select id1, id2, call_day,
+    rank() over(partition by id1, call_day order by call_time) as rnk1,
+    rank() over(partition by id1, call_day order by call_time desc) as rnk2
+    from cet1
+)
+
+select distinct c1.id1 as user_id
+from cet2 c1 join cet2 c2
+on c1.id1 = c2.id1 and c1.id2 = c2.id2 and c1.call_day = c2.call_day
+where c1.rnk1 = 1 and c2.rnk2 = 1
