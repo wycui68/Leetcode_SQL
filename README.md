@@ -36,7 +36,7 @@
 |1990|Medium|[Count the Number of Experiments](https://github.com/wycui68/Leetcode_SQL/blob/8dddd30ad6bcfe78bba5fd33a04d42e3fc60ccb3/SQL/1990.%20Count%20the%20Number%20of%20Experiments)|union|
 |2004|Hard|[The Number of Seniors and Juniors to Join the Company](https://github.com/wycui68/Leetcode_SQL/blob/b581dc91c1454cd54087137147b68f4dd8368958/SQL/2004.%20The%20Number%20of%20Seniors%20and%20Juniors%20to%20Join%20the%20Company)|window function, if|
 |2010|Hard|[The Number of Seniors and Juniors to Join the Company II](https://github.com/wycui68/Leetcode_SQL/blob/b581dc91c1454cd54087137147b68f4dd8368958/SQL/2010.%20The%20Number%20of%20Seniors%20and%20Juniors%20to%20Join%20the%20Company%20II)|2004类似题|
-
+|2020|Medium|[Number of Accounts That Did Not Stream](https://github.com/wycui68/Leetcode_SQL/blob/3117649445275b11a3839dfe6d5abf428798aad0/SQL/2020.%20Number%20of%20Accounts%20That%20Did%20Not%20Stream)|subquery|
 
 
 
