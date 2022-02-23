@@ -1,0 +1,10 @@
+select problem_id
+from  
+    (
+        select problem_id, 
+        100 * likes / (likes + dislikes) as 'pct'
+        from Problems
+
+    ) t
+where t.pct < 60
+order by problem_id
