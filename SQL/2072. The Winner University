@@ -1,0 +1,14 @@
+with cet1 as (
+select count(distinct student_id) as 'cnt1'
+from NewYork
+where score >= 90
+), cet2 as (
+select count(distinct student_id) as 'cnt2'
+from California
+where score >= 90
+)
+
+select (case when cnt1 > cnt2 then 'New York University'
+            when cnt1 < cnt2 then 'California University'
+            else 'No Winner' end) as 'winner'
+from cet1, cet2 
