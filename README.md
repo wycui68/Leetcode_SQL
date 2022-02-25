@@ -38,6 +38,8 @@
 |2010|Hard|[The Number of Seniors and Juniors to Join the Company II](https://github.com/wycui68/Leetcode_SQL/blob/b581dc91c1454cd54087137147b68f4dd8368958/SQL/2010.%20The%20Number%20of%20Seniors%20and%20Juniors%20to%20Join%20the%20Company%20II)|2004类似题|
 |2020|Medium|[Number of Accounts That Did Not Stream](https://github.com/wycui68/Leetcode_SQL/blob/3117649445275b11a3839dfe6d5abf428798aad0/SQL/2020.%20Number%20of%20Accounts%20That%20Did%20Not%20Stream)|subquery|
 |2026|Easy|[Low-Quality Problems](https://github.com/wycui68/Leetcode_SQL/blob/786ee9d13ed521ea6c1a7b1314433b2a248df532/SQL/2026.%20Low-Quality%20Problems)|
+|2041|Medium|[Accepted Candidates From the Interviews](https://github.com/wycui68/Leetcode_SQL/blob/58cddf3c1bbe2dd1dcfec86b6ea63d1658ce85de/SQL/2041.%20Accepted%20Candidates%20From%20the%20Interviews)||
+|2072|Easy|[The Winner University](https://github.com/wycui68/Leetcode_SQL/blob/58cddf3c1bbe2dd1dcfec86b6ea63d1658ce85de/SQL/2072.%20The%20Winner%20University)||
 
 
 
