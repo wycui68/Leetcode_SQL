@@ -1,0 +1,10 @@
+select candidate_id
+from Candidates
+where interview_id in 
+    (
+        select interview_id
+        from Rounds
+        group by interview_id
+        having sum(score) > 15
+    )
+and years_of_exp >= 2
