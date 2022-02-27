@@ -1,0 +1,9 @@
+with cet as (
+select account_id, day, 
+    (case when type = 'Deposit' then amount else -amount end) as amt
+from Transactions
+)
+
+select account_id, day, 
+sum(amt) over(partition by account_id order by day) as balance
+from cet
