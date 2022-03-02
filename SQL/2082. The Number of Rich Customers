@@ -1,0 +1,8 @@
+select count(customer_id) as rich_count
+from 
+(
+select distinct customer_id 
+from Store
+where amount > 500
+group by customer_id
+) t
