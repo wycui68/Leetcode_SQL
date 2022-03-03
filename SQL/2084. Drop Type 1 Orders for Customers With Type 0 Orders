@@ -1,0 +1,23 @@
+with cet1 as (
+select distinct customer_id
+from Orders 
+), cet2 as (
+select customer_id, count(distinct order_id) as cnt
+from Orders
+where order_type = 0
+group by customer_id
+), cet3 as (
+select cet1.customer_id, ifnull(cnt, 0) as type0_cnt
+from cet1 left join cet2
+on cet1.customer_Id = cet2.customer_id
+)
+
+select t1.*
+from Orders t1 join cet3 t2
+on t1.customer_id = t2.customer_id
+where type0_cnt > 0 and order_type = 0
+union all
+select t1.*
+from Orders t1 join cet3 t2
+on t1.customer_id = t2.customer_id
+where type0_cnt = 0 
