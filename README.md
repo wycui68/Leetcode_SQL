@@ -43,6 +43,7 @@
 |2066|Medium|[Account Balance](https://github.com/wycui68/Leetcode_SQL/blob/d66e7b0ed087a1d7d603af71b54a19848f8ce578/SQL/2066.%20Account%20Balance)|window function|
 |2072|Easy|[The Winner University](https://github.com/wycui68/Leetcode_SQL/blob/58cddf3c1bbe2dd1dcfec86b6ea63d1658ce85de/SQL/2072.%20The%20Winner%20University)||
 |2082|Easy|[The Number of Rich Customers](https://github.com/wycui68/Leetcode_SQL/blob/416e4654f5e5b8c891db4573238b477a816186f1/SQL/2082.%20The%20Number%20of%20Rich%20Customers)||
+|2084|Medium|[Drop Type 1 Orders for Customers With Type 0 Orders](https://github.com/wycui68/Leetcode_SQL/blob/be7aa2af6880da1c1a38d25a53f966c733bb5b39/SQL/2084.%20Drop%20Type%201%20Orders%20for%20Customers%20With%20Type%200%20Orders)||
 
 
 
