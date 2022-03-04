@@ -1,0 +1,16 @@
+select airport as airport_id
+from 
+(
+
+    select airport, dense_rank() over(order by sum(flights_count) desc) as rnk
+    from 
+    (
+        select departure_airport as airport, flights_count
+        from Flights
+        union all
+        select arrival_airport as airport, flights_count
+        from Flights
+    ) t1
+    group by airport
+) t2
+where rnk = 1
