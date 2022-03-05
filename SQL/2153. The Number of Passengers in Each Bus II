@@ -1,0 +1,30 @@
+with recursive A as (
+    select bus_id, arrival_time, capacity, 
+    ifnull(lag(arrival_time) over(order by arrival_time),0) as prev_time
+    from Buses
+), B as (
+    select bus_id, A.arrival_time, A.capacity, count(p.passenger_id) as cnt
+    from A left join Passengers p 
+    on p.arrival_time <= A.arrival_time and A.prev_time < p.arrival_time
+    group by A.bus_id
+), C as (
+    select bus_id, capacity, cnt as total_passengers, row_number() over(order by arrival_time) as rnk
+    from B
+), D as (
+    select bus_id, capacity, total_passengers, rnk, 
+        if(capacity>total_passengers, total_passengers, capacity) as passenger_taken, 
+        if(capacity<total_passengers, total_passengers-capacity, 0) as passenger_left
+    from C
+    where rnk = 1
+    union 
+    select C.bus_id, C.capacity, C.total_passengers, C.rnk, 
+    if(C.capacity>C.total_passengers+D.passenger_left, 
+       C.total_passengers+D.passenger_left, C.capacity) as passenger_taken, 
+    if(C.capacity<C.total_passengers+D.passenger_left,
+      C.total_passengers+D.passenger_left-C.capacity, 0) as passenger_left
+    from C join D on D.rnk + 1 = C.rnk
+)
+
+select bus_id, passenger_taken as passengers_cnt
+from D
+order by bus_id
