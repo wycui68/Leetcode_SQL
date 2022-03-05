@@ -46,6 +46,8 @@
 |2082|Easy|[The Number of Rich Customers](https://github.com/wycui68/Leetcode_SQL/blob/416e4654f5e5b8c891db4573238b477a816186f1/SQL/2082.%20The%20Number%20of%20Rich%20Customers)||
 |2084|Medium|[Drop Type 1 Orders for Customers With Type 0 Orders](https://github.com/wycui68/Leetcode_SQL/blob/be7aa2af6880da1c1a38d25a53f966c733bb5b39/SQL/2084.%20Drop%20Type%201%20Orders%20for%20Customers%20With%20Type%200%20Orders)||
 |2112|Medium|[The Airport With the Most Traffic](https://github.com/wycui68/Leetcode_SQL/blob/bd0966b00d23ac698424a1d34a548e3b8963117f/SQL/2112.%20The%20Airport%20With%20the%20Most%20Traffic)|window function|
+|2142|Medium|[The Number of Passengers in Each Bus I](https://github.com/wycui68/Leetcode_SQL/blob/3041c0d5992830f425207f6b52cfcd20a6c998ea/SQL/2142.%20The%20Number%20of%20Passengers%20in%20Each%20Bus%20I)|lag|
+|2152|Hard|[The Number of Passengers in Each Bus II](https://github.com/wycui68/Leetcode_SQL/blob/3041c0d5992830f425207f6b52cfcd20a6c998ea/SQL/2153.%20The%20Number%20of%20Passengers%20in%20Each%20Bus%20II)|lag, recursive CET|
 
 
 
