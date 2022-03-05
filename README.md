@@ -45,7 +45,7 @@
 |2072|Easy|[The Winner University](https://github.com/wycui68/Leetcode_SQL/blob/58cddf3c1bbe2dd1dcfec86b6ea63d1658ce85de/SQL/2072.%20The%20Winner%20University)||
 |2082|Easy|[The Number of Rich Customers](https://github.com/wycui68/Leetcode_SQL/blob/416e4654f5e5b8c891db4573238b477a816186f1/SQL/2082.%20The%20Number%20of%20Rich%20Customers)||
 |2084|Medium|[Drop Type 1 Orders for Customers With Type 0 Orders](https://github.com/wycui68/Leetcode_SQL/blob/be7aa2af6880da1c1a38d25a53f966c733bb5b39/SQL/2084.%20Drop%20Type%201%20Orders%20for%20Customers%20With%20Type%200%20Orders)||
-|2112|[The Airport With the Most Traffic](https://github.com/wycui68/Leetcode_SQL/blob/bd0966b00d23ac698424a1d34a548e3b8963117f/SQL/2112.%20The%20Airport%20With%20the%20Most%20Traffic)|window function|
+|2112|Medium|[The Airport With the Most Traffic](https://github.com/wycui68/Leetcode_SQL/blob/bd0966b00d23ac698424a1d34a548e3b8963117f/SQL/2112.%20The%20Airport%20With%20the%20Most%20Traffic)|window function|
 
 
 
