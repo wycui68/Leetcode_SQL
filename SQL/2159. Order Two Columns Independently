@@ -1,0 +1,13 @@
+with cet1 as (
+    select first_col, 
+    row_number() over(order by first_col) as rnk1
+    from Data
+), cet2 as (
+    select second_col, 
+    row_number() over(order by second_col desc) as rnk2
+    from Data
+)
+
+select first_col, second_col
+from cet1 join cet2
+on cet1.rnk1 = cet2.rnk2
