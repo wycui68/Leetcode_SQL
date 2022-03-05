@@ -1,0 +1,16 @@
+select t2.bus_id, 
+       count(p.passenger_id) as passengers_cnt
+from 
+(
+    select bus_id, arrival_time, ifnull(lag(arrival_time) over(),0) as prev_time
+    from 
+        (
+            select bus_id, arrival_time
+            from Buses
+            order by arrival_time
+        ) t1
+) t2 left join Passengers p 
+on p.arrival_time <= t2.arrival_time 
+and p.arrival_time > t2.prev_time
+group by t2.bus_id
+order by bus_id;
