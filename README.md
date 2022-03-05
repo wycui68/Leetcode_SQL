@@ -48,7 +48,7 @@
 |2112|Medium|[The Airport With the Most Traffic](https://github.com/wycui68/Leetcode_SQL/blob/bd0966b00d23ac698424a1d34a548e3b8963117f/SQL/2112.%20The%20Airport%20With%20the%20Most%20Traffic)|window function|
 |2142|Medium|[The Number of Passengers in Each Bus I](https://github.com/wycui68/Leetcode_SQL/blob/3041c0d5992830f425207f6b52cfcd20a6c998ea/SQL/2142.%20The%20Number%20of%20Passengers%20in%20Each%20Bus%20I)|lag|
 |2152|Hard|[The Number of Passengers in Each Bus II](https://github.com/wycui68/Leetcode_SQL/blob/3041c0d5992830f425207f6b52cfcd20a6c998ea/SQL/2153.%20The%20Number%20of%20Passengers%20in%20Each%20Bus%20II)|lag, recursive CET|
-
+|2159|Medium|[Order Two Columns Independently](https://github.com/wycui68/Leetcode_SQL/blob/eb91d653b49daa75387df8aab1a5bf074fb180ac/SQL/2159.%20Order%20Two%20Columns%20Independently)|window funcion|
 
 
 
