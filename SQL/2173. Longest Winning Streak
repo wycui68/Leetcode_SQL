@@ -1,0 +1,20 @@
+with cet1 as (
+select player_id, match_day, result,
+row_number() over(partition by player_id order by match_day) as rnk1,
+row_number() over(partition by player_id order by result, match_day) as rnk2
+from Matches
+), cet2 as (
+select player_id, count(*) as cnt
+from cet1
+where result = 'Win'
+group by player_id, rnk1-rnk2
+)
+
+select player_id, max(cnt) as longest_streak
+from 
+(
+    select distinct m.player_id, ifnull(cnt, 0) as cnt
+    from Matches m left join cet2 
+    on m.player_id = cet2.player_id
+) t
+group by player_id
