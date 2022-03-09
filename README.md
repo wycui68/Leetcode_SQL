@@ -50,6 +50,6 @@
 |2152|Hard|[The Number of Passengers in Each Bus II](https://github.com/wycui68/Leetcode_SQL/blob/3041c0d5992830f425207f6b52cfcd20a6c998ea/SQL/2153.%20The%20Number%20of%20Passengers%20in%20Each%20Bus%20II)|lag, recursive CET|
 |2159|Medium|[Order Two Columns Independently](https://github.com/wycui68/Leetcode_SQL/blob/eb91d653b49daa75387df8aab1a5bf074fb180ac/SQL/2159.%20Order%20Two%20Columns%20Independently)|window funcion|
 |2173|Hard|[Longest Winning Streak](https://github.com/wycui68/Leetcode_SQL/blob/d3d8886332a06b38d23b2af07aeddb0fed2aac52/SQL/2173.%20Longest%20Winning%20Streak)|window function|
-
+|2175|Medium|[The Change in Global Rankings](https://github.com/wycui68/Leetcode_SQL/blob/2e073f34c1e1cd4841210f2e2c01021f23a0a0a7/SQL/2175.%20The%20Change%20in%20Global%20Rankings)|cast|
 
 
