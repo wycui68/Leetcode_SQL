@@ -1,0 +1,20 @@
+with cet1 as (
+    select team_id, name, points, 
+    row_number() over(order by points desc, name) as rnk1
+    from TeamPoints
+), cet2 as (
+    select t1.team_id, t2.name, 
+        points + points_change as cur_point
+    from PointsChange t1 left join TeamPoints t2
+    on t1.team_id = t2.team_id
+), cet3 as (
+    select team_id, name, 
+    row_number() over(order by cur_point desc, name) as rnk2
+    from cet2
+)
+
+select cet1.team_id, cet1.name, cast(cet1.rnk1 as signed) - cast(cet3.rnk2 as signed) as rank_diff
+from cet1 left join cet3
+on cet1.team_id = cet3.team_id
+
+# singed -> int型， unsigned ->无符号int型
