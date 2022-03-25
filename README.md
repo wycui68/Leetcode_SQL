@@ -3,6 +3,7 @@
 | Number| Difficulty |Title|Key Points|
 | ---   | ---        | --- | ---      |
 |176|Medium|[Second Highest Salary](https://github.com/wycui68/Leetcode_SQL/blob/cc31a15431de1ac4073cb76ecd180ee1656ca97a/SQL/176.%20Second%20Highest%20Salary)|subquery|
+|178|Medium|[Rank Scores](https://github.com/wycui68/Leetcode_SQL/blob/195b9349601ff1057f5479b4b7762836c752c1bc/SQL/178.%20Rank%20Scores)|
 |177|Medium|[Nth Highest Salary](https://github.com/wycui68/Leetcode_SQL/blob/cc31a15431de1ac4073cb76ecd180ee1656ca97a/SQL/177.%20Nth%20Highest%20Salary)|dense rank|
 |1479|Hard|[Sales by Day of the Week](https://github.com/wycui68/Leetcode_SQL/blob/4a29aaf372cc5c3987024ba34d0b7f0105679850/SQL/1479.%20Sales%20by%20Day%20of%20the%20Week)|case when|
 |1635| Hard | [Hopper Company Queries I](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1635.%20Hopper%20Company%20Queries%20I)|Recursive CTE|
