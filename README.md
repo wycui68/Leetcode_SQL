@@ -9,6 +9,10 @@
 |184|Medium|[Department Highest Salary](https://github.com/wycui68/Leetcode_SQL/blob/accb3eabf30cf4c2274cd121cc65c3c85729e863/SQL/184.%20Department%20Highest%20Salary)|join/dense rank|
 |185|Hard|[Department Top Three Salaries](https://github.com/wycui68/Leetcode_SQL/blob/a0235b8ac7f3bb317572efce204cd77796a495a9/SQL/185.%20Department%20Top%20Three%20Salaries.sql)|dense rank|
 |262|Hard|[Trips and Users](https://github.com/wycui68/Leetcode_SQL/blob/a0235b8ac7f3bb317572efce204cd77796a495a9/SQL/262.%20Trips%20and%20Users.sql)|join|
+|511|Easy|[Game Play Analysis I](https://github.com/wycui68/Leetcode_SQL/blob/54d42f10bc64d092c7ed10092a815a17df2da5b5/SQL/511.%20Game%20Play%20Analysis%20I.sql)||
+|512|Easy|[Game Play Analysis II](https://github.com/wycui68/Leetcode_SQL/blob/54d42f10bc64d092c7ed10092a815a17df2da5b5/SQL/512.%20Game%20Play%20Analysis%20II.sql)||
+|534|Easy|[Game Play Analysis III](https://github.com/wycui68/Leetcode_SQL/blob/54d42f10bc64d092c7ed10092a815a17df2da5b5/SQL/534.%20Game%20Play%20Analysis%20III.sql)||
+|550|Easy|[Game Play Analysis IV](https://github.com/wycui68/Leetcode_SQL/blob/54d42f10bc64d092c7ed10092a815a17df2da5b5/SQL/550.%20Game%20Play%20Analysis%20IV.sql)||
 |1479|Hard|[Sales by Day of the Week](https://github.com/wycui68/Leetcode_SQL/blob/4a29aaf372cc5c3987024ba34d0b7f0105679850/SQL/1479.%20Sales%20by%20Day%20of%20the%20Week)|case when|
 |1635| Hard | [Hopper Company Queries I](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1635.%20Hopper%20Company%20Queries%20I)|Recursive CTE|
 |1645| Hard | [Hopper Company Queries II](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1645.%20Hopper%20Company%20Queries%20II)|Recursive CTE|
