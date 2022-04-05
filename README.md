@@ -13,6 +13,7 @@
 |512|Easy|[Game Play Analysis II](https://github.com/wycui68/Leetcode_SQL/blob/54d42f10bc64d092c7ed10092a815a17df2da5b5/SQL/512.%20Game%20Play%20Analysis%20II.sql)|subquery|
 |534|Easy|[Game Play Analysis III](https://github.com/wycui68/Leetcode_SQL/blob/54d42f10bc64d092c7ed10092a815a17df2da5b5/SQL/534.%20Game%20Play%20Analysis%20III.sql)|join|
 |550|Easy|[Game Play Analysis IV](https://github.com/wycui68/Leetcode_SQL/blob/54d42f10bc64d092c7ed10092a815a17df2da5b5/SQL/550.%20Game%20Play%20Analysis%20IV.sql)|join|
+|570|Medium|[Managers with at Least 5 Direct Reports](https://github.com/wycui68/Leetcode_SQL/blob/0983a558efb0569ee2c4337756c41f259a0449b4/SQL/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports.sql)||
 |1479|Hard|[Sales by Day of the Week](https://github.com/wycui68/Leetcode_SQL/blob/4a29aaf372cc5c3987024ba34d0b7f0105679850/SQL/1479.%20Sales%20by%20Day%20of%20the%20Week)|case when|
 |1635| Hard | [Hopper Company Queries I](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1635.%20Hopper%20Company%20Queries%20I)|Recursive CTE|
 |1645| Hard | [Hopper Company Queries II](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1645.%20Hopper%20Company%20Queries%20II)|Recursive CTE|
@@ -62,5 +63,6 @@
 |2159|Medium|[Order Two Columns Independently](https://github.com/wycui68/Leetcode_SQL/blob/eb91d653b49daa75387df8aab1a5bf074fb180ac/SQL/2159.%20Order%20Two%20Columns%20Independently)|window funcion|
 |2173|Hard|[Longest Winning Streak](https://github.com/wycui68/Leetcode_SQL/blob/d3d8886332a06b38d23b2af07aeddb0fed2aac52/SQL/2173.%20Longest%20Winning%20Streak)|window function|
 |2175|Medium|[The Change in Global Rankings](https://github.com/wycui68/Leetcode_SQL/blob/2e073f34c1e1cd4841210f2e2c01021f23a0a0a7/SQL/2175.%20The%20Change%20in%20Global%20Rankings)|cast|
+|2205|Easy|[The Number of Users That Are Eligible for Discount](https://github.com/wycui68/Leetcode_SQL/blob/0983a558efb0569ee2c4337756c41f259a0449b4/SQL/2205.%20The%20Number%20of%20Users%20That%20Are%20Eligible%20for%20Discount.sql)||
 
 
