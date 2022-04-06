@@ -13,7 +13,9 @@
 |512|Easy|[Game Play Analysis II](https://github.com/wycui68/Leetcode_SQL/blob/54d42f10bc64d092c7ed10092a815a17df2da5b5/SQL/512.%20Game%20Play%20Analysis%20II.sql)|subquery|
 |534|Easy|[Game Play Analysis III](https://github.com/wycui68/Leetcode_SQL/blob/54d42f10bc64d092c7ed10092a815a17df2da5b5/SQL/534.%20Game%20Play%20Analysis%20III.sql)|join|
 |550|Easy|[Game Play Analysis IV](https://github.com/wycui68/Leetcode_SQL/blob/54d42f10bc64d092c7ed10092a815a17df2da5b5/SQL/550.%20Game%20Play%20Analysis%20IV.sql)|join|
+|569|Hard|[Median Employee Salary](https://github.com/wycui68/Leetcode_SQL/blob/cbaf23faaf5052cb49d152a24b562fd792149ea1/SQL/569.%20Median%20Employee%20Salary.sql)|求中位数|
 |570|Medium|[Managers with at Least 5 Direct Reports](https://github.com/wycui68/Leetcode_SQL/blob/0983a558efb0569ee2c4337756c41f259a0449b4/SQL/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports.sql)||
+|571|Hard|[Find Median Given Frequency of Numbers](https://github.com/wycui68/Leetcode_SQL/blob/cbaf23faaf5052cb49d152a24b562fd792149ea1/SQL/571.%20Find%20Median%20Given%20Frequency%20of%20Numbers.sql)|求中位数|
 |1479|Hard|[Sales by Day of the Week](https://github.com/wycui68/Leetcode_SQL/blob/4a29aaf372cc5c3987024ba34d0b7f0105679850/SQL/1479.%20Sales%20by%20Day%20of%20the%20Week)|case when|
 |1635| Hard | [Hopper Company Queries I](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1635.%20Hopper%20Company%20Queries%20I)|Recursive CTE|
 |1645| Hard | [Hopper Company Queries II](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1645.%20Hopper%20Company%20Queries%20II)|Recursive CTE|
