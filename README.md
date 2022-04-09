@@ -17,6 +17,8 @@
 |570|Medium|[Managers with at Least 5 Direct Reports](https://github.com/wycui68/Leetcode_SQL/blob/0983a558efb0569ee2c4337756c41f259a0449b4/SQL/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports.sql)||
 |571|Hard|[Find Median Given Frequency of Numbers](https://github.com/wycui68/Leetcode_SQL/blob/cbaf23faaf5052cb49d152a24b562fd792149ea1/SQL/571.%20Find%20Median%20Given%20Frequency%20of%20Numbers.sql)|求中位数|
 |574|Medium|[Winning Candidate](https://github.com/wycui68/Leetcode_SQL/blob/07ab74e6c7c6cd4a850a88397a6dd6884005a6a6/SQL/574.%20Winning%20Candidate.sql)||
+|578|Medium|[Get Highest Answer Rate Question](https://github.com/wycui68/Leetcode_SQL/blob/cc2ec6ad66aaba724df1c2287bd8d2c57091ab1c/SQL/578.%20Get%20Highest%20Answer%20Rate%20Question.sql)|join|
+|579|Hard|[Find Cumulative Salary of an Employee](https://github.com/wycui68/Leetcode_SQL/blob/cc2ec6ad66aaba724df1c2287bd8d2c57091ab1c/SQL/579.%20Find%20Cumulative%20Salary%20of%20an%20Employee.sql)|join|
 |1479|Hard|[Sales by Day of the Week](https://github.com/wycui68/Leetcode_SQL/blob/4a29aaf372cc5c3987024ba34d0b7f0105679850/SQL/1479.%20Sales%20by%20Day%20of%20the%20Week)|case when|
 |1635| Hard | [Hopper Company Queries I](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1635.%20Hopper%20Company%20Queries%20I)|Recursive CTE|
 |1645| Hard | [Hopper Company Queries II](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1645.%20Hopper%20Company%20Queries%20II)|Recursive CTE|
