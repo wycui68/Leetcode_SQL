@@ -19,6 +19,7 @@
 |574|Medium|[Winning Candidate](https://github.com/wycui68/Leetcode_SQL/blob/07ab74e6c7c6cd4a850a88397a6dd6884005a6a6/SQL/574.%20Winning%20Candidate.sql)||
 |578|Medium|[Get Highest Answer Rate Question](https://github.com/wycui68/Leetcode_SQL/blob/cc2ec6ad66aaba724df1c2287bd8d2c57091ab1c/SQL/578.%20Get%20Highest%20Answer%20Rate%20Question.sql)|join|
 |579|Hard|[Find Cumulative Salary of an Employee](https://github.com/wycui68/Leetcode_SQL/blob/cc2ec6ad66aaba724df1c2287bd8d2c57091ab1c/SQL/579.%20Find%20Cumulative%20Salary%20of%20an%20Employee.sql)|join|
+|580|Medium|[Count Student Number in Departments](https://github.com/wycui68/Leetcode_SQL/blob/b3db4b08349dbed782e2e67604c737605713939b/SQL/580.%20Count%20Student%20Number%20in%20Departments.sql)||
 |1479|Hard|[Sales by Day of the Week](https://github.com/wycui68/Leetcode_SQL/blob/4a29aaf372cc5c3987024ba34d0b7f0105679850/SQL/1479.%20Sales%20by%20Day%20of%20the%20Week)|case when|
 |1635| Hard | [Hopper Company Queries I](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1635.%20Hopper%20Company%20Queries%20I)|Recursive CTE|
 |1645| Hard | [Hopper Company Queries II](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1645.%20Hopper%20Company%20Queries%20II)|Recursive CTE|
