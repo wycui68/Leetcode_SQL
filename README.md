@@ -24,6 +24,7 @@
 |597|Easy|[Friend Requests I: Overall Acceptance Rate](https://github.com/wycui68/Leetcode_SQL/blob/4fc3dc2251cf2e39f1e1d83adf3fdbf63788be6a/SQL/597.%20Friend%20Requests%20I:%20Overall%20Acceptance%20Rate.sql)||
 |601|Hard|[Human Traffic of Stadium](https://github.com/wycui68/Leetcode_SQL/blob/6effda8d619472198a40a08bb7c7c417168c9e3c/SQL/601.%20Human%20Traffic%20of%20Stadium.sql)|subquery|
 |602|Medium|[Friend Requests II: Who Has the Most Friends](https://github.com/wycui68/Leetcode_SQL/blob/4fc3dc2251cf2e39f1e1d83adf3fdbf63788be6a/SQL/602.%20Friend%20Requests%20II:%20Who%20Has%20the%20Most%20Friends.sql)|union|
+|614|Medium|[Second Degree Follower](https://github.com/wycui68/Leetcode_SQL/blob/1fd6a4cae4fe4f08be1f3d67d69e7e28618cca07/SQL/614.%20Second%20Degree%20Follower.sql)|subquery|
 |1479|Hard|[Sales by Day of the Week](https://github.com/wycui68/Leetcode_SQL/blob/4a29aaf372cc5c3987024ba34d0b7f0105679850/SQL/1479.%20Sales%20by%20Day%20of%20the%20Week)|case when|
 |1635| Hard | [Hopper Company Queries I](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1635.%20Hopper%20Company%20Queries%20I)|Recursive CTE|
 |1645| Hard | [Hopper Company Queries II](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1645.%20Hopper%20Company%20Queries%20II)|Recursive CTE|
