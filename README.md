@@ -29,6 +29,8 @@
 |618|Hard|[Students Report By Geography](https://github.com/wycui68/Leetcode_SQL/blob/047083ab41eed4fb71bb839d06284adac6266c16/SQL/618.%20Students%20Report%20By%20Geography.sql)|window function|
 |619|Easy|[Biggest Single Number](https://github.com/wycui68/Leetcode_SQL/blob/047083ab41eed4fb71bb839d06284adac6266c16/SQL/619.%20Biggest%20Single%20Number.sql)||
 |620|Easy|[Not Boring Movies](https://github.com/wycui68/Leetcode_SQL/blob/a13347f5acc73343369127ede74b5372f9050941/SQL/620.%20Not%20Boring%20Movies.sql)|basic|
+|626|Medium|[Exchange Seats](https://github.com/wycui68/Leetcode_SQL/blob/b7ebc2542739cb18c14ded011e5a136aacf80c0a/SQL/626.%20Exchange%20Seats.sql)|case when|
+|1045|Medium|[Customers Who Bought All Products](https://github.com/wycui68/Leetcode_SQL/blob/b7ebc2542739cb18c14ded011e5a136aacf80c0a/SQL/1045.%20Customers%20Who%20Bought%20All%20Products.sql)|basic|
 |1479|Hard|[Sales by Day of the Week](https://github.com/wycui68/Leetcode_SQL/blob/4a29aaf372cc5c3987024ba34d0b7f0105679850/SQL/1479.%20Sales%20by%20Day%20of%20the%20Week)|case when|
 |1635| Hard | [Hopper Company Queries I](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1635.%20Hopper%20Company%20Queries%20I)|Recursive CTE|
 |1645| Hard | [Hopper Company Queries II](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1645.%20Hopper%20Company%20Queries%20II)|Recursive CTE|
