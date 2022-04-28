@@ -40,6 +40,7 @@
 |1082|Easy|[Sales Analysis I](https://github.com/wycui68/Leetcode_SQL/blob/41e39852e4b2dc25b0cd367be00a530016150f3e/SQL/1082.%20Sales%20Analysis%20I.sql)|1076类似|
 |1083|Easy|[Sales Analysis II](https://github.com/wycui68/Leetcode_SQL/blob/41e39852e4b2dc25b0cd367be00a530016150f3e/SQL/1083.%20Sales%20Analysis%20II.sql)|subquery|
 |1084|Easy|[Sales Analysis III](https://github.com/wycui68/Leetcode_SQL/blob/41e39852e4b2dc25b0cd367be00a530016150f3e/SQL/1084.%20Sales%20Analysis%20III.sql)||
+|1098|Medium|[Unpopular Books](https://github.com/wycui68/Leetcode_SQL/blob/6454d1f133576a132b587268cdfee2db56fa97d6/SQL/1098.%20Unpopular%20Books.sql)|basic|
 |1479|Hard|[Sales by Day of the Week](https://github.com/wycui68/Leetcode_SQL/blob/4a29aaf372cc5c3987024ba34d0b7f0105679850/SQL/1479.%20Sales%20by%20Day%20of%20the%20Week)|case when|
 |1635| Hard | [Hopper Company Queries I](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1635.%20Hopper%20Company%20Queries%20I)|Recursive CTE|
 |1645| Hard | [Hopper Company Queries II](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1645.%20Hopper%20Company%20Queries%20II)|Recursive CTE|
