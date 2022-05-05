@@ -44,6 +44,8 @@
 |1098|Medium|[Unpopular Books](https://github.com/wycui68/Leetcode_SQL/blob/6454d1f133576a132b587268cdfee2db56fa97d6/SQL/1098.%20Unpopular%20Books.sql)|basic|
 |1107|Medium|[New Users Daily Count](https://github.com/wycui68/Leetcode_SQL/blob/7876735a10f34cbbe96769d697f800f0a16fa099/SQL/1107.%20New%20Users%20Daily%20Count.sql)|basic,日期|
 |1112|Medium|[Highest Grade For Each Student](https://github.com/wycui68/Leetcode_SQL/blob/7876735a10f34cbbe96769d697f800f0a16fa099/SQL/1112.%20Highest%20Grade%20For%20Each%20Student.sql)|subquery or window function|
+|1113|Easy|[Reported Posts](https://github.com/wycui68/Leetcode_SQL/blob/f27be9809702c0f41fabaef66d63c9cb3316c28d/SQL/1113.%20Reported%20Posts.sql)|basic|
+|1132|Medium|[Reported Posts II](https://github.com/wycui68/Leetcode_SQL/blob/f27be9809702c0f41fabaef66d63c9cb3316c28d/SQL/1132.%20Reported%20Posts%20II.sql)|basic|
 |1479|Hard|[Sales by Day of the Week](https://github.com/wycui68/Leetcode_SQL/blob/4a29aaf372cc5c3987024ba34d0b7f0105679850/SQL/1479.%20Sales%20by%20Day%20of%20the%20Week)|case when|
 |1635| Hard | [Hopper Company Queries I](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1635.%20Hopper%20Company%20Queries%20I)|Recursive CTE|
 |1645| Hard | [Hopper Company Queries II](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1645.%20Hopper%20Company%20Queries%20II)|Recursive CTE|
