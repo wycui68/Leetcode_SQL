@@ -52,7 +52,8 @@
 |1142|Easy|[User Activity for the Past 30 Days II](https://github.com/wycui68/Leetcode_SQL/blob/fc758a900240e074beee7e97c156a360ee99f049/SQL/1142.%20User%20Activity%20for%20the%20Past%2030%20Days%20II.sql)|basic|
 |1148|Easy|[Article Views I](https://github.com/wycui68/Leetcode_SQL/blob/8050e89a664deb8490e8fb26328cd600a5aa12ac/SQL/1148.%20Article%20Views%20I.sql)|basic|
 |1149|Medium|[Article Views II](https://github.com/wycui68/Leetcode_SQL/blob/8050e89a664deb8490e8fb26328cd600a5aa12ac/SQL/1149.%20Article%20Views%20II.sql)|basic|
-|1158|Medium|[Market Analysis I](https://github.com/wycui68/Leetcode_SQL/blob/14efe81f623df69b9873114d010a7029e0c83aff/SQL/1158.%20Market%20Analysis%20I.sql)|
+|1158|Medium|[Market Analysis I](https://github.com/wycui68/Leetcode_SQL/blob/14efe81f623df69b9873114d010a7029e0c83aff/SQL/1158.%20Market%20Analysis%20I.sql)||
+|1159|Hard|[Market Analysis II](https://github.com/wycui68/Leetcode_SQL/blob/edf91a6f33a4fcdb3f03d57f6b1023da3f4998dd/SQL/1159.%20Market%20Analysis%20II.sql)|window function|
 |1479|Hard|[Sales by Day of the Week](https://github.com/wycui68/Leetcode_SQL/blob/4a29aaf372cc5c3987024ba34d0b7f0105679850/SQL/1479.%20Sales%20by%20Day%20of%20the%20Week)|case when|
 |1635| Hard | [Hopper Company Queries I](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1635.%20Hopper%20Company%20Queries%20I)|Recursive CTE|
 |1645| Hard | [Hopper Company Queries II](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1645.%20Hopper%20Company%20Queries%20II)|Recursive CTE|
