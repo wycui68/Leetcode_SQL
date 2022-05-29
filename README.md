@@ -54,7 +54,7 @@
 |1149|Medium|[Article Views II](https://github.com/wycui68/Leetcode_SQL/blob/8050e89a664deb8490e8fb26328cd600a5aa12ac/SQL/1149.%20Article%20Views%20II.sql)|basic|
 |1158|Medium|[Market Analysis I](https://github.com/wycui68/Leetcode_SQL/blob/14efe81f623df69b9873114d010a7029e0c83aff/SQL/1158.%20Market%20Analysis%20I.sql)||
 |1159|Hard|[Market Analysis II](https://github.com/wycui68/Leetcode_SQL/blob/edf91a6f33a4fcdb3f03d57f6b1023da3f4998dd/SQL/1159.%20Market%20Analysis%20II.sql)|window function|
-|1164|[Product Price at a Given Date](https://github.com/wycui68/Leetcode_SQL/blob/d4b7f590b15b94d73928652506befcd5fcb61d79/SQL/1164.%20Product%20Price%20at%20a%20Given%20Date.sql)|window function|
+|1164|Medium|[Product Price at a Given Date](https://github.com/wycui68/Leetcode_SQL/blob/d4b7f590b15b94d73928652506befcd5fcb61d79/SQL/1164.%20Product%20Price%20at%20a%20Given%20Date.sql)|window function|
 |1173|Easy|[Immediate Food Delivery I](https://github.com/wycui68/Leetcode_SQL/blob/7ef5bf756edc7508605722e885003d3bb431ad00/SQL/1173.%20Immediate%20Food%20Delivery%20I.sql)|basic|
 |1174|Medium|[Immediate Food Delivery II](https://github.com/wycui68/Leetcode_SQL/blob/7ef5bf756edc7508605722e885003d3bb431ad00/SQL/1174.%20Immediate%20Food%20Delivery%20II.sql)|window function|
 |1479|Hard|[Sales by Day of the Week](https://github.com/wycui68/Leetcode_SQL/blob/4a29aaf372cc5c3987024ba34d0b7f0105679850/SQL/1479.%20Sales%20by%20Day%20of%20the%20Week)|case when|
