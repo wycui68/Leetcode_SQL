@@ -57,6 +57,9 @@
 |1164|Medium|[Product Price at a Given Date](https://github.com/wycui68/Leetcode_SQL/blob/d4b7f590b15b94d73928652506befcd5fcb61d79/SQL/1164.%20Product%20Price%20at%20a%20Given%20Date.sql)|window function|
 |1173|Easy|[Immediate Food Delivery I](https://github.com/wycui68/Leetcode_SQL/blob/7ef5bf756edc7508605722e885003d3bb431ad00/SQL/1173.%20Immediate%20Food%20Delivery%20I.sql)|basic|
 |1174|Medium|[Immediate Food Delivery II](https://github.com/wycui68/Leetcode_SQL/blob/7ef5bf756edc7508605722e885003d3bb431ad00/SQL/1174.%20Immediate%20Food%20Delivery%20II.sql)|window function|
+|1179|Easy|[Reformat Department Table](https://github.com/wycui68/Leetcode_SQL/blob/5e74dbce582319d472e2dfa3011a2c66285ac552/SQL/1179.%20Reformat%20Department%20Table.sql)|case when|
+|1193|Medium|[Monthly Transactions I](https://github.com/wycui68/Leetcode_SQL/blob/5e74dbce582319d472e2dfa3011a2c66285ac552/SQL/1193.%20Monthly%20Transactions%20I.sql)|case when|
+|1205|Medium|[Monthly Transactions II](https://github.com/wycui68/Leetcode_SQL/blob/5e74dbce582319d472e2dfa3011a2c66285ac552/SQL/1205.%20Monthly%20Transactions%20II.sql)|case when, union|
 |1479|Hard|[Sales by Day of the Week](https://github.com/wycui68/Leetcode_SQL/blob/4a29aaf372cc5c3987024ba34d0b7f0105679850/SQL/1479.%20Sales%20by%20Day%20of%20the%20Week)|case when|
 |1635| Hard | [Hopper Company Queries I](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1635.%20Hopper%20Company%20Queries%20I)|Recursive CTE|
 |1645| Hard | [Hopper Company Queries II](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1645.%20Hopper%20Company%20Queries%20II)|Recursive CTE|
