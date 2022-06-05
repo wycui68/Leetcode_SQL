@@ -63,6 +63,9 @@
 |1211|Easy|[Queries Quality and Percentage](https://github.com/wycui68/Leetcode_SQL/blob/48602c00c32b378e1b22d6a764258d8b89fb82cd/SQL/1211.%20Queries%20Quality%20and%20Percentage.sql)|basic|
 |1212|Medium|[Team Scores in Football Tournament](https://github.com/wycui68/Leetcode_SQL/blob/f348f8e8100b31414adfb5b01def6b09694bd354/SQL/1212.%20Team%20Scores%20in%20Football%20Tournament.sq)|union|
 |1225|Hard|[Report Contiguous Dates](https://github.com/wycui68/Leetcode_SQL/blob/f348f8e8100b31414adfb5b01def6b09694bd354/SQL/1225.%20Report%20Contiguous%20Dates.sql)|连续日期|
+|1241|Easy|[Number of Comments per Post](https://github.com/wycui68/Leetcode_SQL/blob/1a2723f98bf03d9efad8ec9fa3f12fac214b05dd/SQL/1241.%20Number%20of%20Comments%20per%20Post.sql)|basic|
+|1251|Easy|[Average Selling Price](https://github.com/wycui68/Leetcode_SQL/blob/1a2723f98bf03d9efad8ec9fa3f12fac214b05dd/SQL/1251.%20Average%20Selling%20Price.sql)|basic|
+|1264|Medium|[Page Recommendations](https://github.com/wycui68/Leetcode_SQL/blob/1a2723f98bf03d9efad8ec9fa3f12fac214b05dd/SQL/1264.%20Page%20Recommendations.sql)|subquery|
 |1479|Hard|[Sales by Day of the Week](https://github.com/wycui68/Leetcode_SQL/blob/4a29aaf372cc5c3987024ba34d0b7f0105679850/SQL/1479.%20Sales%20by%20Day%20of%20the%20Week)|case when|
 |1635| Hard | [Hopper Company Queries I](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1635.%20Hopper%20Company%20Queries%20I)|Recursive CTE|
 |1645| Hard | [Hopper Company Queries II](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1645.%20Hopper%20Company%20Queries%20II)|Recursive CTE|
