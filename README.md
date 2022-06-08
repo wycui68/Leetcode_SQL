@@ -66,6 +66,7 @@
 |1241|Easy|[Number of Comments per Post](https://github.com/wycui68/Leetcode_SQL/blob/1a2723f98bf03d9efad8ec9fa3f12fac214b05dd/SQL/1241.%20Number%20of%20Comments%20per%20Post.sql)|basic|
 |1251|Easy|[Average Selling Price](https://github.com/wycui68/Leetcode_SQL/blob/1a2723f98bf03d9efad8ec9fa3f12fac214b05dd/SQL/1251.%20Average%20Selling%20Price.sql)|basic|
 |1264|Medium|[Page Recommendations](https://github.com/wycui68/Leetcode_SQL/blob/1a2723f98bf03d9efad8ec9fa3f12fac214b05dd/SQL/1264.%20Page%20Recommendations.sql)|subquery|
+|1270|Medium|[All People Report to the Given Manager](https://github.com/wycui68/Leetcode_SQL/blob/dbc12ff530257411ba104a745cb1210600a7601c/SQL/1270.%20All%20People%20Report%20to%20the%20Given%20Manager.sql)|join|
 |1479|Hard|[Sales by Day of the Week](https://github.com/wycui68/Leetcode_SQL/blob/4a29aaf372cc5c3987024ba34d0b7f0105679850/SQL/1479.%20Sales%20by%20Day%20of%20the%20Week)|case when|
 |1635| Hard | [Hopper Company Queries I](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1635.%20Hopper%20Company%20Queries%20I)|Recursive CTE|
 |1645| Hard | [Hopper Company Queries II](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1645.%20Hopper%20Company%20Queries%20II)|Recursive CTE|
