@@ -73,6 +73,7 @@
 |1321|Medium|[Restaurant Growth](https://github.com/wycui68/Leetcode_SQL/blob/a3900a79cdf5dc3d125ead6f15a6b26c1532311a/SQL/1321.%20Restaurant%20Growth.sql)|连续日期|
 |1336|Hard|[Number of Transactions per Visit](https://github.com/wycui68/Leetcode_SQL/blob/db6a7593e4db83fe5dc35be63a92a87c4743e29a/SQL/1336.%20Number%20of%20Transactions%20per%20Visit.sql)|recursive|
 |1341|Medium|[Movie Rating](https://github.com/wycui68/Leetcode_SQL/blob/db6a7593e4db83fe5dc35be63a92a87c4743e29a/SQL/1341.%20Movie%20Rating.sql)|basic|
+|1355|Medium|[Activity Participants](https://github.com/wycui68/Leetcode_SQL/blob/2675b875ca5a1b3393c861f945911f6a34754921/SQL/1355.%20Activity%20Participants.sql)|最大最小|
 |1479|Hard|[Sales by Day of the Week](https://github.com/wycui68/Leetcode_SQL/blob/4a29aaf372cc5c3987024ba34d0b7f0105679850/SQL/1479.%20Sales%20by%20Day%20of%20the%20Week)|case when|
 |1635| Hard | [Hopper Company Queries I](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1635.%20Hopper%20Company%20Queries%20I)|Recursive CTE|
 |1645| Hard | [Hopper Company Queries II](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1645.%20Hopper%20Company%20Queries%20II)|Recursive CTE|
