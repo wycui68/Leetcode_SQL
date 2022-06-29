@@ -76,6 +76,7 @@
 |1355|Medium|[Activity Participants](https://github.com/wycui68/Leetcode_SQL/blob/2675b875ca5a1b3393c861f945911f6a34754921/SQL/1355.%20Activity%20Participants.sql)|最大最小|
 |1364|Medium|[Number of Trusted Contacts of a Customer](https://github.com/wycui68/Leetcode_SQL/blob/d9db7340032cd571f25a8e0f1e819d661e7a839a/SQL/1364.%20Number%20of%20Trusted%20Contacts%20of%20a%20Customer.sql)|basic|
 |1369|Hard|[Get the Second Most Recent Activity](https://github.com/wycui68/Leetcode_SQL/blob/d9db7340032cd571f25a8e0f1e819d661e7a839a/SQL/1369.%20Get%20the%20Second%20Most%20Recent%20Activity.sql)|window function|
+|1384|Hard|[Total Sales Amount by Year](https://github.com/wycui68/Leetcode_SQL/blob/b2ce82ccda8af6ee48094d4c5505091da28dfc6f/SQL/1384.%20Total%20Sales%20Amount%20by%20Year.sql)|时间计算|
 |1479|Hard|[Sales by Day of the Week](https://github.com/wycui68/Leetcode_SQL/blob/4a29aaf372cc5c3987024ba34d0b7f0105679850/SQL/1479.%20Sales%20by%20Day%20of%20the%20Week)|case when|
 |1635| Hard | [Hopper Company Queries I](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1635.%20Hopper%20Company%20Queries%20I)|Recursive CTE|
 |1645| Hard | [Hopper Company Queries II](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1645.%20Hopper%20Company%20Queries%20II)|Recursive CTE|
