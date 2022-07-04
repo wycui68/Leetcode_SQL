@@ -77,6 +77,8 @@
 |1364|Medium|[Number of Trusted Contacts of a Customer](https://github.com/wycui68/Leetcode_SQL/blob/d9db7340032cd571f25a8e0f1e819d661e7a839a/SQL/1364.%20Number%20of%20Trusted%20Contacts%20of%20a%20Customer.sql)|basic|
 |1369|Hard|[Get the Second Most Recent Activity](https://github.com/wycui68/Leetcode_SQL/blob/d9db7340032cd571f25a8e0f1e819d661e7a839a/SQL/1369.%20Get%20the%20Second%20Most%20Recent%20Activity.sql)|window function|
 |1384|Hard|[Total Sales Amount by Year](https://github.com/wycui68/Leetcode_SQL/blob/b2ce82ccda8af6ee48094d4c5505091da28dfc6f/SQL/1384.%20Total%20Sales%20Amount%20by%20Year.sql)|时间计算|
+|1393|Medium|[Capital Gain/Loss](https://github.com/wycui68/Leetcode_SQL/blob/eba5527d2056c8358bcfe21a77fb0e6c66482ed8/SQL/1393.Capital%20Gain.sql)|case when|
+|1398|Medium|[Customers Who Bought Products A and B but Not C](https://github.com/wycui68/Leetcode_SQL/blob/eba5527d2056c8358bcfe21a77fb0e6c66482ed8/SQL/1398.%20Customers%20Who%20Bought%20Products%20A%20and%20B%20but%20Not%20C.sql)|subquery|
 |1479|Hard|[Sales by Day of the Week](https://github.com/wycui68/Leetcode_SQL/blob/4a29aaf372cc5c3987024ba34d0b7f0105679850/SQL/1479.%20Sales%20by%20Day%20of%20the%20Week)|case when|
 |1635| Hard | [Hopper Company Queries I](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1635.%20Hopper%20Company%20Queries%20I)|Recursive CTE|
 |1645| Hard | [Hopper Company Queries II](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1645.%20Hopper%20Company%20Queries%20II)|Recursive CTE|
