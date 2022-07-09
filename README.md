@@ -80,6 +80,9 @@
 |1393|Medium|[Capital Gain/Loss](https://github.com/wycui68/Leetcode_SQL/blob/eba5527d2056c8358bcfe21a77fb0e6c66482ed8/SQL/1393.Capital%20Gain.sql)|case when|
 |1398|Medium|[Customers Who Bought Products A and B but Not C](https://github.com/wycui68/Leetcode_SQL/blob/eba5527d2056c8358bcfe21a77fb0e6c66482ed8/SQL/1398.%20Customers%20Who%20Bought%20Products%20A%20and%20B%20but%20Not%20C.sql)|subquery|
 |1412|Hard|[Find the Quiet Students in All Exams](https://github.com/wycui68/Leetcode_SQL/blob/5dfd2a2de65441f5f0f76cbcb20a1551b98c20a0/SQL/1412.%20Find%20the%20Quiet%20Students%20in%20All%20Exams.sql)|排序,subquery|
+|1440|Medium|[Evaluate Boolean Expression](https://github.com/wycui68/Leetcode_SQL/blob/71ca30536a1e20aadc6840d90f450b480d8cfede/SQL/1440.%20Evaluate%20Boolean%20Expression.sql)|case when|
+|1445|Medium|[Apples & Oranges](https://github.com/wycui68/Leetcode_SQL/blob/71ca30536a1e20aadc6840d90f450b480d8cfede/SQL/1445.%20Apples%20&%20Oranges.sql)|basic|
+|1454|Medium|[Active Users](https://github.com/wycui68/Leetcode_SQL/blob/71ca30536a1e20aadc6840d90f450b480d8cfede/SQL/1454.%20Active%20Users.sql)|连续日期|
 |1479|Hard|[Sales by Day of the Week](https://github.com/wycui68/Leetcode_SQL/blob/4a29aaf372cc5c3987024ba34d0b7f0105679850/SQL/1479.%20Sales%20by%20Day%20of%20the%20Week)|case when|
 |1635| Hard | [Hopper Company Queries I](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1635.%20Hopper%20Company%20Queries%20I)|Recursive CTE|
 |1645| Hard | [Hopper Company Queries II](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1645.%20Hopper%20Company%20Queries%20II)|Recursive CTE|
