@@ -88,6 +88,7 @@
 |1479|Hard|[Sales by Day of the Week](https://github.com/wycui68/Leetcode_SQL/blob/4a29aaf372cc5c3987024ba34d0b7f0105679850/SQL/1479.%20Sales%20by%20Day%20of%20the%20Week)|row换成单独的col|
 |1501|Medium|[Countries You Can Safely Invest In](https://github.com/wycui68/Leetcode_SQL/blob/0792b2bd332f8e78d5d5faac33bee90c1b5e52c5/SQL/1501.%20Countries%20You%20Can%20Safely%20Invest%20In.sql)|basic|
 |1532|Medium|[The Most Recent Three Orders](https://github.com/wycui68/Leetcode_SQL/blob/2e6aa899196ac6685050258682a8ae62d71e4139/SQL/1532.%20The%20Most%20Recent%20Three%20Orders.sql)|window function|
+|1549|Medium|[The Most Recent Orders for Each Product](https://github.com/wycui68/Leetcode_SQL/blob/c3227969d0b8b4ffba60584bca43c811d6df1915/SQL/1549.%20The%20Most%20Recent%20Orders%20for%20Each%20Product.sql)|window function|
 |1635| Hard | [Hopper Company Queries I](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1635.%20Hopper%20Company%20Queries%20I)|Recursive CTE|
 |1645| Hard | [Hopper Company Queries II](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1645.%20Hopper%20Company%20Queries%20II)|Recursive CTE|
 |1651| Hard | [Hopper Company Queries III](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1651.%20Hopper%20Company%20Queries%20III) |Recursive CTE, window function|
