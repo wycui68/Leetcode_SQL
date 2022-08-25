@@ -91,6 +91,7 @@
 |1549|Medium|[The Most Recent Orders for Each Product](https://github.com/wycui68/Leetcode_SQL/blob/c3227969d0b8b4ffba60584bca43c811d6df1915/SQL/1549.%20The%20Most%20Recent%20Orders%20for%20Each%20Product.sql)|window function|
 |1555|Medium|[Bank Account Summary](https://github.com/wycui68/Leetcode_SQL/blob/75c5db607e7566547b89e1512cf1a8247e41f6d0/SQL/1555.%20Bank%20Account%20Summary.sql)|basic|
 |1596|Medium|[The Most Frequently Ordered Products for Each Customer](https://github.com/wycui68/Leetcode_SQL/blob/c0b86ea460fae99a03a27a457a4de9324c2c1ddc/SQL/1596.%20The%20Most%20Frequently%20Ordered%20Products%20for%20Each%20Customer.sql)|window function|
+|1613|Medium|[Find the Missing IDs](https://github.com/wycui68/Leetcode_SQL/blob/6a46800e0971a37241716d3058d52fdc7e683c04/SQL/1613.%20Find%20the%20Missing%20IDs.sql)|recursive cet|
 |1635| Hard | [Hopper Company Queries I](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1635.%20Hopper%20Company%20Queries%20I)|Recursive CTE|
 |1645| Hard | [Hopper Company Queries II](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1645.%20Hopper%20Company%20Queries%20II)|Recursive CTE|
 |1651| Hard | [Hopper Company Queries III](https://github.com/wycui68/Leetcode_SQL/blob/3f6a2765df8a5ae14b7a48422bd980d13a50c628/SQL/1651.%20Hopper%20Company%20Queries%20III) |Recursive CTE, window function|
