@@ -141,5 +141,6 @@
 |2173|Hard|[Longest Winning Streak](https://github.com/wycui68/Leetcode_SQL/blob/d3d8886332a06b38d23b2af07aeddb0fed2aac52/SQL/2173.%20Longest%20Winning%20Streak)|window function|
 |2175|Medium|[The Change in Global Rankings](https://github.com/wycui68/Leetcode_SQL/blob/2e073f34c1e1cd4841210f2e2c01021f23a0a0a7/SQL/2175.%20The%20Change%20in%20Global%20Rankings)|cast|
 |2205|Easy|[The Number of Users That Are Eligible for Discount](https://github.com/wycui68/Leetcode_SQL/blob/0983a558efb0569ee2c4337756c41f259a0449b4/SQL/2205.%20The%20Number%20of%20Users%20That%20Are%20Eligible%20for%20Discount.sql)||
+|2308|Medium|[Arrange Table by Gender](https://github.com/wycui68/Leetcode_SQL/blob/f1acf55819091fee7944458de5d7fb98678240a2/SQL/2308.%20Arrange%20Table%20by%20Gender.sql)|window function, union all|
 
 
