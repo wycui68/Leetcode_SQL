@@ -129,7 +129,7 @@
 |2020|Medium|[Number of Accounts That Did Not Stream](https://github.com/wycui68/Leetcode_SQL/blob/3117649445275b11a3839dfe6d5abf428798aad0/SQL/2020.%20Number%20of%20Accounts%20That%20Did%20Not%20Stream)|subquery|
 |2026|Easy|[Low-Quality Problems](https://github.com/wycui68/Leetcode_SQL/blob/786ee9d13ed521ea6c1a7b1314433b2a248df532/SQL/2026.%20Low-Quality%20Problems)|
 |2041|Medium|[Accepted Candidates From the Interviews](https://github.com/wycui68/Leetcode_SQL/blob/58cddf3c1bbe2dd1dcfec86b6ea63d1658ce85de/SQL/2041.%20Accepted%20Candidates%20From%20the%20Interviews)||
-|2051|Medium|[The Category of Each Member in the Store](https://github.com/wycui68/Leetcode_SQL/blob/d66e7b0ed087a1d7d603af71b54a19848f8ce578/SQL/2051.%20The%20Category%20of%20Each%20Member%20in%20the%20Store)||
+|2051|Medium|[The Category of Each Member in the Store](https://github.com/wycui68/Leetcode_SQL/blob/d66e7b0ed087a1d7d603af71b54a19848f8ce578/SQL/2051.%20The%20Category%20of%20Each%20Member%20in%20the%20Store)|conversion rate|
 |2066|Medium|[Account Balance](https://github.com/wycui68/Leetcode_SQL/blob/d66e7b0ed087a1d7d603af71b54a19848f8ce578/SQL/2066.%20Account%20Balance)|window function|
 |2072|Easy|[The Winner University](https://github.com/wycui68/Leetcode_SQL/blob/58cddf3c1bbe2dd1dcfec86b6ea63d1658ce85de/SQL/2072.%20The%20Winner%20University)||
 |2082|Easy|[The Number of Rich Customers](https://github.com/wycui68/Leetcode_SQL/blob/416e4654f5e5b8c891db4573238b477a816186f1/SQL/2082.%20The%20Number%20of%20Rich%20Customers)||
