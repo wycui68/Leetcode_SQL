@@ -1,29 +1,17 @@
-with cet1 as (
-    select t1.member_id, count(distinct t3.visit_id) as 'purchase'
-    from Members t1 join Visits t2 
-    on t1.member_id = t2.member_id
-    join Purchases t3 on t2.visit_id = t3.visit_id
-    group by t1.member_id
-), cet2 as (
-    select t1.member_id, count(distinct t2.visit_id) as 'visit'
-    from Members t1 join Visits t2 
-    on t1.member_id = t2.member_id
-    group by t1.member_id
+with cet1 as 
+(
+select member_id, 
+100 * ifnull(count(t2.visit_id) / count(t1.visit_id), 0) as cnv_rate 
+from Visits t1 left join Purchases t2 
+on t1.visit_id = t2.visit_id
+group by member_id
 )
 
-select member_id, name, 
-(case when rate >= 80 then 'Diamond'
-      when rate < 80 and rate >= 50 then 'Gold'
-      when rate < 50 and visit > 0 then 'Silver'
-      when visit = 0 then 'Bronze' end) as 'category'
-from 
-(
-        select m.*, round(ifnull(pct, 0), 0) as rate, ifnull(visit, 0) as visit
-        from Members m left join 
-        (
-            select cet2.member_id, 
-                   ifnull(100 * purchase/visit, 0) as pct, 
-                   visit
-            from cet2 left join cet1 on cet1.member_id = cet2.member_id
-        ) t on m.member_id = t.member_id
-) tmp
+select m.member_id, 
+m.name, 
+case when cnv_rate >= 80 then 'Diamond'
+     when cnv_rate < 80 and cnv_rate >= 50 then 'Gold'
+     when cnv_rate < 50 then 'Silver'
+     else 'Bronze' end as category
+from Members m left join cet1 c 
+on m.member_id = c.member_id
