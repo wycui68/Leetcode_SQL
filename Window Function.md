@@ -20,4 +20,5 @@
 | Number| Difficulty |Title|
 | ---   | ---        | --- |
 |579|Hard|Find Cumulative Salary of an Employee|
+|1204|Medium|Last Person to Fit in the Bus|
 
