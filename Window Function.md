@@ -22,3 +22,9 @@
 |579|Hard|Find Cumulative Salary of an Employee|
 |1204|Medium|Last Person to Fit in the Bus|
 
+**Categorical**
+
+| Number| Difficulty |Title|
+| ---   | ---        | --- |
+|1468|Medium|Calculate Salaries|
+|1907|Medium|Count Salary Categories|
