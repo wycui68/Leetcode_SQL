@@ -144,6 +144,7 @@
 |2228|Medium|[Users With Two Purchases Within Seven Days](https://github.com/wycui68/Leetcode_SQL/blob/cc621f096228b38c9bd3aeb9d780b0c000d03d68/SQL/2228.%20Users%20With%20Two%20Purchases%20Within%20Seven%20Days.sql)|lead,lag|
 |2238|Medium|[Number of Times a Driver Was a Passenger](https://github.com/wycui68/Leetcode_SQL/blob/330d6d57e6cecbbbcd5dc10691a3460607275409/SQL/2238.%20Number%20of%20Times%20a%20Driver%20Was%20a%20Passenger.sql)|join|
 |2292|Medium|[Products With Three or More Orders in Two Consecutive Years](https://github.com/wycui68/Leetcode_SQL/blob/330d6d57e6cecbbbcd5dc10691a3460607275409/SQL/2292.%20Products%20With%20Three%20or%20More%20Orders%20in%20Two%20Consecutive%20Years.sql)|lead/lag|
+|2298|Medium|[Tasks Count in the Weekend](https://github.com/wycui68/Leetcode_SQL/blob/7354f7e1fc4168ce946c3761b220d483b71197b9/SQL/2298.%20Tasks%20Count%20in%20the%20Weekend.sql)|window function|
 |2308|Medium|[Arrange Table by Gender](https://github.com/wycui68/Leetcode_SQL/blob/f1acf55819091fee7944458de5d7fb98678240a2/SQL/2308.%20Arrange%20Table%20by%20Gender.sql)|window function, union all|
 
 
