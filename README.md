@@ -148,4 +148,6 @@
 |2308|Medium|[Arrange Table by Gender](https://github.com/wycui68/Leetcode_SQL/blob/f1acf55819091fee7944458de5d7fb98678240a2/SQL/2308.%20Arrange%20Table%20by%20Gender.sql)|window function, union all|
 |2314|Medium|[The First Day of the Maximum Recorded Degree in Each City](https://github.com/wycui68/Leetcode_SQL/blob/96ec581cd2677f19d435d3adac4d0a349c8eec05/SQL/2314.%20The%20First%20Day%20of%20the%20Maximum%20Recorded%20Degree%20in%20Each%20City.sql)|window function|
 |2324|Medium|[Product Sales Analysis IV](https://github.com/wycui68/Leetcode_SQL/blob/96ec581cd2677f19d435d3adac4d0a349c8eec05/SQL/2324.%20Product%20Sales%20Analysis%20IV.sql)|window function|
+|2346|Medium|[Compute the Rank as a Percentage](https://github.com/wycui68/Leetcode_SQL/blob/2da0820aeccf65009f9d7077a4c527cda84325e7/SQL/2346.%20Compute%20the%20Rank%20as%20a%20Percentage.sql)|window function|
+|2372|Medium|[Calculate the Influence of Each Salesperson](https://github.com/wycui68/Leetcode_SQL/blob/2da0820aeccf65009f9d7077a4c527cda84325e7/SQL/2372.%20Calculate%20the%20Influence%20of%20Each%20Salesperson.sql)|join, window function|
 
