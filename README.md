@@ -150,4 +150,5 @@
 |2324|Medium|[Product Sales Analysis IV](https://github.com/wycui68/Leetcode_SQL/blob/96ec581cd2677f19d435d3adac4d0a349c8eec05/SQL/2324.%20Product%20Sales%20Analysis%20IV.sql)|window function|
 |2346|Medium|[Compute the Rank as a Percentage](https://github.com/wycui68/Leetcode_SQL/blob/2da0820aeccf65009f9d7077a4c527cda84325e7/SQL/2346.%20Compute%20the%20Rank%20as%20a%20Percentage.sql)|window function|
 |2372|Medium|[Calculate the Influence of Each Salesperson](https://github.com/wycui68/Leetcode_SQL/blob/2da0820aeccf65009f9d7077a4c527cda84325e7/SQL/2372.%20Calculate%20the%20Influence%20of%20Each%20Salesperson.sql)|join, window function|
+|2388|Medium|[Change Null Values in a Table to the Previous Value](https://github.com/wycui68/Leetcode_SQL/blob/f2badd7e0107ab028e6c7a499c37434e85e1dcab/SQL/2388.%20Change%20Null%20Values%20in%20a%20Table%20to%20the%20Previous%20Value.sql)|Recursion|
 
