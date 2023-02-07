@@ -12,6 +12,7 @@
 
 | Number| Difficulty |Title|
 | ---   | ---        | --- |
+|178|Medium|Rank Scores|
 |185|Hard|Department Top Three Salaries|
 |578|Medium|Get Highest Answer Rate Question|
 
