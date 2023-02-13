@@ -6,7 +6,7 @@
 |177|Medium|[Nth Highest Salary](https://github.com/wycui68/Leetcode_SQL/blob/b12e84eea64989f335b491d8041bb00c12e28966/SQL/177.%20Nth%20Highest%20Salary.sql)|window function|
 |178|Medium|[Rank Scores](https://github.com/wycui68/Leetcode_SQL/blob/71d71aeea4a799f52a991e8fab12d6ff1c4772bd/SQL/178.%20Rank%20Scores.sql)|window function|
 |180|Medium|[Consecutive Numbers](https://github.com/wycui68/Leetcode_SQL/blob/fc71071b825c525fe3c7d399947e690e88e66c59/SQL/180.%20Consecutive%20Numbers.sql)|join|
-|184|Medium|[Department Highest Salary](https://github.com/wycui68/Leetcode_SQL/blob/accb3eabf30cf4c2274cd121cc65c3c85729e863/SQL/184.%20Department%20Highest%20Salary)|join/dense rank|
+|184|Medium|[Department Highest Salary](https://github.com/wycui68/Leetcode_SQL/blob/8137876074d80fa1f49fb48701582f6d31c7faf5/SQL/184.%20Department%20Highest%20Salary.sql)|window function|
 |185|Hard|[Department Top Three Salaries](https://github.com/wycui68/Leetcode_SQL/blob/a0235b8ac7f3bb317572efce204cd77796a495a9/SQL/185.%20Department%20Top%20Three%20Salaries.sql)|dense rank|
 |262|Hard|[Trips and Users](https://github.com/wycui68/Leetcode_SQL/blob/a0235b8ac7f3bb317572efce204cd77796a495a9/SQL/262.%20Trips%20and%20Users.sql)|join|
 |511|Easy|[Game Play Analysis I](https://github.com/wycui68/Leetcode_SQL/blob/54d42f10bc64d092c7ed10092a815a17df2da5b5/SQL/511.%20Game%20Play%20Analysis%20I.sql)|join|
