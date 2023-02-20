@@ -1,5 +1,7 @@
 **Rate Calculation**
-
+| Number| Difficulty |Title|
+| ---   | ---        | --- |
+|262|Hard|Trips and Users|
 
 
 **Time Calculation**
