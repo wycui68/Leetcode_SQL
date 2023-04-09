@@ -25,7 +25,7 @@
 |601|Hard|[Human Traffic of Stadium](https://github.com/wycui68/Leetcode_SQL/blob/6effda8d619472198a40a08bb7c7c417168c9e3c/SQL/601.%20Human%20Traffic%20of%20Stadium.sql)|subquery|
 |602|Medium|[Friend Requests II: Who Has the Most Friends](https://github.com/wycui68/Leetcode_SQL/blob/4fc3dc2251cf2e39f1e1d83adf3fdbf63788be6a/SQL/602.%20Friend%20Requests%20II:%20Who%20Has%20the%20Most%20Friends.sql)|union|
 |614|Medium|[Second Degree Follower](https://github.com/wycui68/Leetcode_SQL/blob/1fd6a4cae4fe4f08be1f3d67d69e7e28618cca07/SQL/614.%20Second%20Degree%20Follower.sql)|subquery|
-|615|Hard|[Average Salary: Departments VS Company](https://github.com/wycui68/Leetcode_SQL/blob/a13347f5acc73343369127ede74b5372f9050941/SQL/615.%20Average%20Salary:%20Departments%20VS%20Company.sql)|basic|
+|615|Hard|[Average Salary: Departments VS Company](https://github.com/wycui68/Leetcode_SQL/blob/49460ae8536a4f706b83371ebacc38ac30536f89/SQL/615.%20Average%20Salary:%20Departments%20VS%20Company.sql)|window function|
 |618|Hard|[Students Report By Geography](https://github.com/wycui68/Leetcode_SQL/blob/047083ab41eed4fb71bb839d06284adac6266c16/SQL/618.%20Students%20Report%20By%20Geography.sql)|window function|
 |619|Easy|[Biggest Single Number](https://github.com/wycui68/Leetcode_SQL/blob/047083ab41eed4fb71bb839d06284adac6266c16/SQL/619.%20Biggest%20Single%20Number.sql)||
 |620|Easy|[Not Boring Movies](https://github.com/wycui68/Leetcode_SQL/blob/a13347f5acc73343369127ede74b5372f9050941/SQL/620.%20Not%20Boring%20Movies.sql)|basic|
