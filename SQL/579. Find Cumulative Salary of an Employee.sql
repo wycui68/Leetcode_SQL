@@ -13,3 +13,21 @@ where (e1.id, e1.month) not in
         group by id
     )
 order by e1.id, e1.month desc
+
+# window function
+# differnece between row and range
+with cet as 
+(
+  select id, 
+  month, 
+  sum(salary) over(partition by id order by month range between 2 preceding and current row) as total_salary, 
+  row_number() over(partition by id order by month desc) as rnk
+  from Employee
+)
+
+select id, 
+month, 
+total_salary as Salary
+from cet
+where rnk != 1
+order by id, month desc
