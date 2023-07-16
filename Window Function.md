@@ -18,6 +18,7 @@
 |185|Hard|Department Top Three Salaries|
 |569|Hard|Median Employee Salary|
 |578|Medium|Get Highest Answer Rate Question|
+|1097|Hard|Game Play Analysis V|
 
 **Cumulative**
 
