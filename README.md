@@ -40,7 +40,7 @@
 |1082|Easy|[Sales Analysis I](https://github.com/wycui68/Leetcode_SQL/blob/41e39852e4b2dc25b0cd367be00a530016150f3e/SQL/1082.%20Sales%20Analysis%20I.sql)|1076类似|
 |1083|Easy|[Sales Analysis II](https://github.com/wycui68/Leetcode_SQL/blob/41e39852e4b2dc25b0cd367be00a530016150f3e/SQL/1083.%20Sales%20Analysis%20II.sql)|subquery|
 |1084|Easy|[Sales Analysis III](https://github.com/wycui68/Leetcode_SQL/blob/41e39852e4b2dc25b0cd367be00a530016150f3e/SQL/1084.%20Sales%20Analysis%20III.sql)||
-|1097|Hard|[Game Play Analysis V](https://github.com/wycui68/Leetcode_SQL/blob/b65689b13f93a3b4792b8408b765d1f01869b893/SQL/1097.%20Game%20Play%20Analysis%20V.sql)|basic|
+|1097|Hard|[Game Play Analysis V](https://github.com/wycui68/Leetcode_SQL/blob/03bc7197c2804d5bb08c1a054dfbfc88323537d7/SQL/1097.%20Game%20Play%20Analysis%20V.sql)|sliding window|
 |1098|Medium|[Unpopular Books](https://github.com/wycui68/Leetcode_SQL/blob/6454d1f133576a132b587268cdfee2db56fa97d6/SQL/1098.%20Unpopular%20Books.sql)|basic|
 |1107|Medium|[New Users Daily Count](https://github.com/wycui68/Leetcode_SQL/blob/7876735a10f34cbbe96769d697f800f0a16fa099/SQL/1107.%20New%20Users%20Daily%20Count.sql)|basic,日期|
 |1112|Medium|[Highest Grade For Each Student](https://github.com/wycui68/Leetcode_SQL/blob/7876735a10f34cbbe96769d697f800f0a16fa099/SQL/1112.%20Highest%20Grade%20For%20Each%20Student.sql)|subquery or window function|
