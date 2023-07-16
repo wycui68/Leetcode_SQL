@@ -28,3 +28,41 @@ select install_dt, installs,
 round(ifnull(second_day_login, 0) / installs, 2) as Day1_retention
 from cet1 left join cet2
 on cet1.install_dt = date_sub(cet2.event_date, interval 1 day);
+
+
+################################################################
+# window function 
+# Write your MySQL query statement below
+# lead(, offset) over(expr), offset -> n th row ahead of the current row
+with table1 as 
+(
+  select player_id, 
+  event_date, 
+  rank() over(partition by player_id order by event_date) as rank_date, 
+  lead(event_date, 1) over(partition by player_id order by event_date) as next_date
+  from Activity
+)
+
+select event_date as install_dt, 
+count(distinct player_id) as installs, 
+round(sum(case when date_sub(next_date, interval 1 day) = event_date then 1 else 0 end) / count(distinct player_id), 2) as Day1_retention
+from table1
+where rank_date = 1
+group by event_date
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
