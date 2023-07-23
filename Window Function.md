@@ -19,6 +19,7 @@
 |569|Hard|Median Employee Salary|
 |578|Medium|Get Highest Answer Rate Question|
 |1097|Hard|Game Play Analysis V|
+|1112|Medium|Highest Grade For Each Student|
 
 **Cumulative**
 
