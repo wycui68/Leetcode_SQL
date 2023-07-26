@@ -14,7 +14,8 @@
 |1141|Easy|User Activity for the Past 3o Days I|
 |1142|Easy|User Activity for the Past 3o Days II|
 
-**If condition**
+**If/case when condition**
 | Number| Difficulty |Title|
 | ---   | ---        | --- |
 |1127|Hard|User Purchase Platform|
+|1294|Easy|Weather Type in Each Country|
