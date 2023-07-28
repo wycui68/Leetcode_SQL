@@ -7,7 +7,7 @@
 |615|Average Salary: Departments VS Company|
 |1126|Medium|Active Businesses|
 |1308|Medium|Running Total for Different Genders|
-|1303|Medium|Find the Team Size|
+|1303|Easy|Find the Team Size|
 
 **Rank**
 
