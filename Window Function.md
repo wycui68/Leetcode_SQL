@@ -20,6 +20,7 @@
 |578|Medium|Get Highest Answer Rate Question|
 |1097|Hard|Game Play Analysis V|
 |1112|Medium|Highest Grade For Each Student|
+|1159|Hard|Market Analysis II|
 |2668|Easy|Find Latest Salaries|
 
 **Cumulative**
