@@ -23,6 +23,7 @@
 |1159|Hard|Market Analysis II|
 |1164|Medium|Product Price at a Given Date|
 |1174|Medium|Immediate Food Delivery II|
+|1194|Hard|Tournament Winners|
 |2668|Easy|Find Latest Salaries|
 
 **Cumulative**
