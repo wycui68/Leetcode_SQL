@@ -18,4 +18,6 @@
 | Number| Difficulty |Title|
 | ---   | ---        | --- |
 |1127|Hard|User Purchase Platform|
+|1193|Medium|Monthly Transactions I|
+|1205|Medium|Monthly Transactions II|
 |1294|Easy|Weather Type in Each Country|
