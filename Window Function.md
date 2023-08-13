@@ -4,7 +4,7 @@
 | ---   | ---        | --- |
 |534|Medium|Game Play Analysis III|
 |550|Medium|Game Play Analysis IV|
-|615|Average Salary: Departments VS Company|
+|615|Hard|Average Salary: Departments VS Company|
 |1126|Medium|Active Businesses|
 |1308|Medium|Running Total for Different Genders|
 |1303|Easy|Find the Team Size|
