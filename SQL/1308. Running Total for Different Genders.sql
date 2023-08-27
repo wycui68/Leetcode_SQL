@@ -24,3 +24,30 @@ on m1.day >= m2.day
 group by m1.day
 
 order by gender, day
+
+# window function 
+select gender, 
+day, 
+sum(score) over(partition by gender order by day rows between unbounded preceding and current row) as total
+from 
+(
+select gender, 
+day, 
+sum(score_points) as score
+from Scores
+group by gender, day
+) t
+
+# since we are doing the summation of all the rows prior to the current, we can ignore the syntac of rows between... 
+select gender, 
+day, 
+sum(points_per_day) over(partition by gender order by day) as total
+from 
+(
+  select gender, 
+  day, 
+  sum(score_points) as points_per_day
+  from Scores
+  group by gender, day
+) t
+    
