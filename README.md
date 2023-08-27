@@ -69,7 +69,7 @@
 |1270|Medium|[All People Report to the Given Manager](https://github.com/wycui68/Leetcode_SQL/blob/dbc12ff530257411ba104a745cb1210600a7601c/SQL/1270.%20All%20People%20Report%20to%20the%20Given%20Manager.sql)|join|
 |1280|Easy|[Students and Examinations](https://github.com/wycui68/Leetcode_SQL/blob/82e6a672b35e8b52bec42b434bc89769611217ce/SQL/1280.%20Students%20and%20Examinations.sql)|basic|
 |1285|Medium|[Find the Start and End Number of Continuous Ranges](https://github.com/wycui68/Leetcode_SQL/blob/01dc853186515fe4d482626739aa588332de58c2/SQL/1285.%20Find%20the%20Start%20and%20End%20Number%20of%20Continuous%20Ranges.sql)|window function|
-|1308|Medium|[Running Total for Different Genders](https://github.com/wycui68/Leetcode_SQL/blob/01dc853186515fe4d482626739aa588332de58c2/SQL/1308.%20Running%20Total%20for%20Different%20Genders.sql)|basic|
+|1308|Medium|[Running Total for Different Genders](https://github.com/wycui68/Leetcode_SQL/blob/d1aa405a07512e13526f1008c9be614c81400563/SQL/1308.%20Running%20Total%20for%20Different%20Genders.sql)|window function|
 |1321|Medium|[Restaurant Growth](https://github.com/wycui68/Leetcode_SQL/blob/a3900a79cdf5dc3d125ead6f15a6b26c1532311a/SQL/1321.%20Restaurant%20Growth.sql)|连续日期|
 |1336|Hard|[Number of Transactions per Visit](https://github.com/wycui68/Leetcode_SQL/blob/db6a7593e4db83fe5dc35be63a92a87c4743e29a/SQL/1336.%20Number%20of%20Transactions%20per%20Visit.sql)|recursive|
 |1341|Medium|[Movie Rating](https://github.com/wycui68/Leetcode_SQL/blob/db6a7593e4db83fe5dc35be63a92a87c4743e29a/SQL/1341.%20Movie%20Rating.sql)|basic|
