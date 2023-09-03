@@ -8,7 +8,7 @@
 |1126|Medium|Active Businesses|
 |1308|Medium|Running Total for Different Genders|
 |1303|Easy|Find the Team Size|
-|1341|Movie Rating|
+|1341|Medium|Movie Rating|
 
 **Rank**
 
