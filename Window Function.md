@@ -36,6 +36,7 @@
 |579|Hard|Find Cumulative Salary of an Employee|
 |1204|Medium|Last Person to Fit in the Bus|
 |1308|Medium|Running Total for Different Genders|
+|1321|Medium|Restaurant Growth|
 
 **Categorical**
 
