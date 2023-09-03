@@ -24,3 +24,10 @@
 |1211|Easy|Queries Quality and Percentage|
 |1212|Medium|Team Scores in Football Tournament|
 |1294|Easy|Weather Type in Each Country|
+|1435|Easy|Create a Session Bar Chart|
+
+
+**Recursive table**
+| Number| Difficulty |Title|
+| ---   | ---        | --- |
+|1336|Hard|Number of Transactions per Visit|
