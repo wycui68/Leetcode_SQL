@@ -27,6 +27,7 @@
 |1194|Hard|Tournament Winners|
 |1225|Hard|Report Contiguous Dates|
 |1355|Medium|Activity Participants|
+|1369|Hard|Get the Second Most Recent Activity|
 |2668|Easy|Find Latest Salaries|
 
 **Cumulative**
