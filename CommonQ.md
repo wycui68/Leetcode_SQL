@@ -13,6 +13,7 @@
 |1098|Medium|Unpopular Books|
 |1141|Easy|User Activity for the Past 3o Days I|
 |1142|Easy|User Activity for the Past 3o Days II|
+|1394|Hard|Total Sales Amount by Year|
 
 
 **If/case when condition**
@@ -24,6 +25,8 @@
 |1211|Easy|Queries Quality and Percentage|
 |1212|Medium|Team Scores in Football Tournament|
 |1294|Easy|Weather Type in Each Country|
+|1393|Medium|Capital Gain/Loss|
+|1394|Hard|Total Sales Amount by Year|
 |1435|Easy|Create a Session Bar Chart|
 
 
