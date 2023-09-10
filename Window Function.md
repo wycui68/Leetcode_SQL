@@ -28,6 +28,7 @@
 |1225|Hard|Report Contiguous Dates|
 |1355|Medium|Activity Participants|
 |1369|Hard|Get the Second Most Recent Activity|
+|1412|Hard|Find the Quiet Students in All Exams|
 |2668|Easy|Find Latest Salaries|
 
 **Cumulative**
