@@ -28,6 +28,8 @@
 |1393|Medium|Capital Gain/Loss|
 |1394|Hard|Total Sales Amount by Year|
 |1435|Easy|Create a Session Bar Chart|
+|1440|Medium|Evaluate Boolean Expression|
+|1445|Medium|Apples & Oranges|
 
 
 **Recursive table**
