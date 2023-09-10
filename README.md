@@ -81,7 +81,7 @@
 |1398|Medium|[Customers Who Bought Products A and B but Not C](https://github.com/wycui68/Leetcode_SQL/blob/eba5527d2056c8358bcfe21a77fb0e6c66482ed8/SQL/1398.%20Customers%20Who%20Bought%20Products%20A%20and%20B%20but%20Not%20C.sql)|subquery|
 |1412|Hard|[Find the Quiet Students in All Exams](https://github.com/wycui68/Leetcode_SQL/blob/5dfd2a2de65441f5f0f76cbcb20a1551b98c20a0/SQL/1412.%20Find%20the%20Quiet%20Students%20in%20All%20Exams.sql)|排序,subquery|
 |1440|Medium|[Evaluate Boolean Expression](https://github.com/wycui68/Leetcode_SQL/blob/71ca30536a1e20aadc6840d90f450b480d8cfede/SQL/1440.%20Evaluate%20Boolean%20Expression.sql)|case when|
-|1445|Medium|[Apples & Oranges](https://github.com/wycui68/Leetcode_SQL/blob/71ca30536a1e20aadc6840d90f450b480d8cfede/SQL/1445.%20Apples%20&%20Oranges.sql)|basic|
+|1445|Medium|[Apples & Oranges](https://github.com/wycui68/Leetcode_SQL/blob/ae7313a09e0c4bde1e7fe870ce1e5ce582986b93/SQL/1445.%20Apples%20%26%20Oranges.sql)|case when|
 |1454|Medium|[Active Users](https://github.com/wycui68/Leetcode_SQL/blob/71ca30536a1e20aadc6840d90f450b480d8cfede/SQL/1454.%20Active%20Users.sql)|连续日期|
 |1459|Medium|[Rectangles Area](https://github.com/wycui68/Leetcode_SQL/blob/986524e0c488f52a9793d191314eb41b6fae55f4/SQL/1459.%20Rectangles%20Area.sql)|basic|
 |1468|Medium|[Calculate Salaries](https://github.com/wycui68/Leetcode_SQL/blob/986524e0c488f52a9793d191314eb41b6fae55f4/SQL/1468.%20Calculate%20Salaries.sql)|case when|
