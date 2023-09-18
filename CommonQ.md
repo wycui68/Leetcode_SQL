@@ -30,6 +30,7 @@
 |1435|Easy|Create a Session Bar Chart|
 |1440|Medium|Evaluate Boolean Expression|
 |1445|Medium|Apples & Oranges|
+|1468|Medium|Calculate Salaries|
 
 
 **Recursive table**
