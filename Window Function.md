@@ -29,6 +29,8 @@
 |1355|Medium|Activity Participants|
 |1369|Hard|Get the Second Most Recent Activity|
 |1412|Hard|Find the Quiet Students in All Exams|
+|1532|Medium|The Most Recent Three Orders|
+|1549|Medium|The Most Recent Orders for Each Product|
 |2668|Easy|Find Latest Salaries|
 
 **Cumulative**
