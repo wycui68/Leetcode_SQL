@@ -14,6 +14,8 @@
 |1141|Easy|User Activity for the Past 3o Days I|
 |1142|Easy|User Activity for the Past 3o Days II|
 |1394|Hard|Total Sales Amount by Year|
+|1479|Hard|Sales by Day of the Week|
+|1543|Easy|Fix Product Name Format|
 
 
 **If/case when condition**
@@ -31,6 +33,7 @@
 |1440|Medium|Evaluate Boolean Expression|
 |1445|Medium|Apples & Oranges|
 |1468|Medium|Calculate Salaries|
+|1479|Hard|Sales by Day of the Week|
 
 
 **Recursive table**
