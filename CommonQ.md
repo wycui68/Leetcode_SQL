@@ -34,6 +34,7 @@
 |1445|Medium|Apples & Oranges|
 |1468|Medium|Calculate Salaries|
 |1479|Hard|Sales by Day of the Week|
+|1555|Medium|Bank Account Summary|
 
 
 **Recursive table**
