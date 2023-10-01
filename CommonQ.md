@@ -16,6 +16,7 @@
 |1394|Hard|Total Sales Amount by Year|
 |1479|Hard|Sales by Day of the Week|
 |1543|Easy|Fix Product Name Format|
+|1565|Easy|Unique Orders and Customers Per Month|
 
 
 **If/case when condition**
