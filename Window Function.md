@@ -31,7 +31,10 @@
 |1412|Hard|Find the Quiet Students in All Exams|
 |1532|Medium|The Most Recent Three Orders|
 |1549|Medium|The Most Recent Orders for Each Product|
+|1596|Medium|The Most Frequently Ordered Products for Each Customer|
 |2668|Easy|Find Latest Salaries|
+|2687|Easy|Bikes Last Time Used|
+|2688|Medium|Find Active Users|
 
 **Cumulative**
 
