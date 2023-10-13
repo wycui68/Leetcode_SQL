@@ -43,3 +43,9 @@
 | ---   | ---        | --- |
 |1336|Hard|Number of Transactions per Visit|
 |1613|Medium|Find the Missing IDs|
+
+
+**String**
+| Number| Difficulty |Title|
+| ---   | ---        | --- |
+|1667|Easy|Fix Names in a Table|
