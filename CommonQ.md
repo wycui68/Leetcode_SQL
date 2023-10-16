@@ -36,6 +36,7 @@
 |1468|Medium|Calculate Salaries|
 |1479|Hard|Sales by Day of the Week|
 |1555|Medium|Bank Account Summary|
+|1661|Easy|Average Time of Process per Machine|
 
 
 **Recursive table**
@@ -43,6 +44,7 @@
 | ---   | ---        | --- |
 |1336|Hard|Number of Transactions per Visit|
 |1613|Medium|Find the Missing IDs|
+|1635|Hard|Hopper Company QueriesI|
 
 
 **String**
