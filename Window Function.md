@@ -36,6 +36,7 @@
 |2687|Easy|Bikes Last Time Used|
 |2688|Medium|Find Active Users|
 
+
 **Cumulative**
 
 | Number| Difficulty |Title|
@@ -45,6 +46,14 @@
 |1204|Medium|Last Person to Fit in the Bus|
 |1308|Medium|Running Total for Different Genders|
 |1321|Medium|Restaurant Growth|
+
+**Lead/Lag**
+
+| Number| Difficulty |Title|
+| ---   | ---        | --- |
+|1709|Medium|Biggest Window Between Visits|
+
+
 
 **Categorical**
 
