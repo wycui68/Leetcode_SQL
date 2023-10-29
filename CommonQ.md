@@ -45,6 +45,7 @@
 |1336|Hard|Number of Transactions per Visit|
 |1613|Medium|Find the Missing IDs|
 |1635|Hard|Hopper Company QueriesI|
+|1767|Hard|Find the Subtasks That Did Not Execute|
 
 
 **String**
