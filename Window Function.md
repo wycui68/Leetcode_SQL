@@ -9,6 +9,7 @@
 |1308|Medium|Running Total for Different Genders|
 |1303|Easy|Find the Team Size|
 |1341|Medium|Movie Rating|
+|1651|Hard|Hopper Company Queries III|
 
 **Rank**
 
