@@ -47,6 +47,11 @@
 |1635|Hard|Hopper Company QueriesI|
 |1767|Hard|Find the Subtasks That Did Not Execute|
 
+**Reformat table**
+| Number| Difficulty |Title|
+| ---   | ---        | --- |
+|1783|Medium|Grand Slam Titles|
+|1795|Easy|Rearrange Products Table|
 
 **String**
 | Number| Difficulty |Title|
