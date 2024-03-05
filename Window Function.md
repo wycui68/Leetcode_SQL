@@ -33,6 +33,7 @@
 |1532|Medium|The Most Recent Three Orders|
 |1549|Medium|The Most Recent Orders for Each Product|
 |1596|Medium|The Most Frequently Ordered Products for Each Customer|
+|1811|Medium|Find Interview Candidates|
 |1831|Medium|Maximum Transaction Each Day|
 |2668|Easy|Find Latest Salaries|
 |2687|Easy|Bikes Last Time Used|
