@@ -55,7 +55,7 @@
 | Number| Difficulty |Title|
 | ---   | ---        | --- |
 |1709|Medium|Biggest Window Between Visits|
-
+|1843|Medium|Suspicious Bank Accounts|
 
 
 **Categorical**
