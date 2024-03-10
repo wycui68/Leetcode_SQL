@@ -35,6 +35,7 @@
 |1596|Medium|The Most Frequently Ordered Products for Each Customer|
 |1811|Medium|Find Interview Candidates|
 |1831|Medium|Maximum Transaction Each Day|
+|1875|Medium|Group Employees of the Same Salary|
 |2668|Easy|Find Latest Salaries|
 |2687|Easy|Bikes Last Time Used|
 |2688|Medium|Find Active Users|
