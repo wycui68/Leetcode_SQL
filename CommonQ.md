@@ -17,7 +17,8 @@
 |1479|Hard|Sales by Day of the Week|
 |1543|Easy|Fix Product Name Format|
 |1565|Easy|Unique Orders and Customers Per Month|
-|1853|Concert Date Format|
+|1853|Easy|Concert Date Format|
+|1939|Easy|Users That Actively Request Confirmation Messages|
 
 
 **If/case when condition**
