@@ -38,6 +38,7 @@
 |1479|Hard|Sales by Day of the Week|
 |1555|Medium|Bank Account Summary|
 |1661|Easy|Average Time of Process per Machine|
+|1907|Medium|Count Salary Categories|
 
 
 **Recursive table**
