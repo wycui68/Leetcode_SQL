@@ -4,6 +4,7 @@
 |262|Hard|Trips and Users|
 |1251|Easy|Average Selling Price|
 |1322|Easy|Ads Performance|
+|1934|Medium|Confirmation Rate|
 
 
 **Time Calculation**
