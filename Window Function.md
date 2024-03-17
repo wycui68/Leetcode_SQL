@@ -37,6 +37,7 @@
 |1831|Medium|Maximum Transaction Each Day|
 |1875|Medium|Group Employees of the Same Salary|
 |1951|Medium|All the Pairs With the Maximum Number of Common Followers|
+|1972|Hard|First and Last Call on the same Day
 |2668|Easy|Find Latest Salaries|
 |2687|Easy|Bikes Last Time Used|
 |2688|Medium|Find Active Users|
