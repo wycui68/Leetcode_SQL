@@ -5,6 +5,7 @@
 |1251|Easy|Average Selling Price|
 |1322|Easy|Ads Performance|
 |1934|Medium|Confirmation Rate|
+|2026|Easy|Low-Quality Problems
 
 
 **Time Calculation**
@@ -41,6 +42,7 @@
 |1555|Medium|Bank Account Summary|
 |1661|Easy|Average Time of Process per Machine|
 |1907|Medium|Count Salary Categories|
+|2072|Easy|The Winner University|
 
 
 **Recursive table**
