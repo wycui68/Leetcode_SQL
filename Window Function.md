@@ -10,6 +10,7 @@
 |1303|Easy|Find the Team Size|
 |1341|Medium|Movie Rating|
 |1651|Hard|Hopper Company Queries III|
+|2004|Hard|The Number of Seniors and Juniors to Join the Company|
 |2066|Medium|Account Balance|
 
 **Rank**
