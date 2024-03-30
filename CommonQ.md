@@ -42,6 +42,7 @@
 |1555|Medium|Bank Account Summary|
 |1661|Easy|Average Time of Process per Machine|
 |1907|Medium|Count Salary Categories|
+|2051|Medium|The Category of Each Member in the Store|
 |2072|Easy|The Winner University|
 
 
