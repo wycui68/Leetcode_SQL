@@ -41,6 +41,7 @@
 |1951|Medium|All the Pairs With the Maximum Number of Common Followers|
 |1972|Hard|First and Last Call on the same Day|
 |2112|Medium|The Airport With the Most Traffic|
+|2175|Medium|The Change in Global Rankings|
 |2668|Easy|Find Latest Salaries|
 |2687|Easy|Bikes Last Time Used|
 |2688|Medium|Find Active Users|
