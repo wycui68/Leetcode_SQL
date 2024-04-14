@@ -65,6 +65,7 @@
 |1709|Medium|Biggest Window Between Visits|
 |1843|Medium|Suspicious Bank Accounts|
 |2142|Medium|The Number of Passengers in Each Bus I|
+|2228|Medium|Users with Two Purchases Within Seven Days|
 
 
 **Categorical**
