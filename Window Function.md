@@ -42,6 +42,7 @@
 |1972|Hard|First and Last Call on the same Day|
 |2112|Medium|The Airport With the Most Traffic|
 |2175|Medium|The Change in Global Rankings|
+|2308|Medium|Arrange Table by Gender|
 |2324|Medium|Product Sales Analysis IV|
 |2668|Easy|Find Latest Salaries|
 |2687|Easy|Bikes Last Time Used|
@@ -66,6 +67,7 @@
 |1843|Medium|Suspicious Bank Accounts|
 |2142|Medium|The Number of Passengers in Each Bus I|
 |2228|Medium|Users with Two Purchases Within Seven Days|
+|2292|Medium|Products with three or more orders in two consecutive years|
 
 
 **Categorical**
