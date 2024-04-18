@@ -43,6 +43,7 @@
 |2112|Medium|The Airport With the Most Traffic|
 |2175|Medium|The Change in Global Rankings|
 |2308|Medium|Arrange Table by Gender|
+|2314|Medium|The First Day of the Maximum Recorded Degree in Each City|
 |2324|Medium|Product Sales Analysis IV|
 |2668|Easy|Find Latest Salaries|
 |2687|Easy|Bikes Last Time Used|
