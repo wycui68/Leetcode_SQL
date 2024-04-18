@@ -44,6 +44,7 @@
 |1907|Medium|Count Salary Categories|
 |2051|Medium|The Category of Each Member in the Store|
 |2072|Easy|The Winner University|
+|2298|Medium|Tasks Count in the Weekend|
 
 
 **Recursive table**
@@ -59,6 +60,8 @@
 | ---   | ---        | --- |
 |1783|Medium|Grand Slam Titles|
 |1795|Easy|Rearrange Products Table|
+|2480|Easy|Form a Chemical Bond|
+
 
 **String**
 | Number| Difficulty |Title|
