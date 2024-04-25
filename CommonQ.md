@@ -55,6 +55,7 @@
 |1613|Medium|Find the Missing IDs|
 |1635|Hard|Hopper Company QueriesI|
 |1767|Hard|Find the Subtasks That Did Not Execute|
+|2388|Medium|Change Null Values in a Table to the Previous Value|
 
 **Reformat table**
 | Number| Difficulty |Title|
