@@ -46,6 +46,7 @@
 |2314|Medium|The First Day of the Maximum Recorded Degree in Each City|
 |2324|Medium|Product Sales Analysis IV|
 |2346|Medium|Compute the Rank as a Percentage|
+|2362|Hard|Generate the Invoice|
 |2668|Easy|Find Latest Salaries|
 |2687|Easy|Bikes Last Time Used|
 |2688|Medium|Find Active Users|
@@ -70,6 +71,7 @@
 |2142|Medium|The Number of Passengers in Each Bus I|
 |2228|Medium|Users with Two Purchases Within Seven Days|
 |2292|Medium|Products with three or more orders in two consecutive years|
+|2986|Find Third Transaction|
 
 
 **Categorical**
