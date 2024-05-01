@@ -46,6 +46,7 @@
 |2051|Medium|The Category of Each Member in the Store|
 |2072|Easy|The Winner University|
 |2298|Medium|Tasks Count in the Weekend|
+|2686|Medium|Immediate Food Delivery III|
 
 
 **Recursive table**
