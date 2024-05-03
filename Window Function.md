@@ -72,6 +72,7 @@
 |2142|Medium|The Number of Passengers in Each Bus I|
 |2228|Medium|Users with Two Purchases Within Seven Days|
 |2292|Medium|Products with three or more orders in two consecutive years|
+|2474|Hard|Customers with strictly increasing purchases|
 |2986|Find Third Transaction|
 
 
