@@ -47,6 +47,7 @@
 |2072|Easy|The Winner University|
 |2298|Medium|Tasks Count in the Weekend|
 |2686|Medium|Immediate Food Delivery III|
+|2783|Medium|Flight Occupancy and Waitlist Analysis|
 
 
 **Recursive table**
