@@ -51,6 +51,7 @@
 |2668|Easy|Find Latest Salaries|
 |2687|Easy|Bikes Last Time Used|
 |2688|Medium|Find Active Users|
+|2922|Medium|Market Analysis III|
 
 
 **Cumulative**
