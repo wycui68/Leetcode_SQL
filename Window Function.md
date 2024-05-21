@@ -13,6 +13,7 @@
 |2004|Hard|The Number of Seniors and Juniors to Join the Company|
 |2066|Medium|Account Balance|
 |2820|Medium|Election Results|
+|2984|Medium|Find Peak Calling Hours for Each City|
 
 **Rank**
 
