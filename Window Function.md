@@ -76,6 +76,7 @@
 |2228|Medium|Users with Two Purchases Within Seven Days|
 |2292|Medium|Products with three or more orders in two consecutive years|
 |2474|Hard|Customers with strictly increasing purchases|
+|2701|Hard|Consecutive Transactions with Increasing Amounts|
 |2854|Medium|Rolling Average Steps|
 |2986|Find Third Transaction|
 
