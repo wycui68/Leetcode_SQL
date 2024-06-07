@@ -74,3 +74,8 @@
 | ---   | ---        | --- |
 |1667|Easy|Fix Names in a Table|
 |3050|Medium|Pizza Topping Cost Analysis|
+
+**Percentile Calculation**
+| Number| Difficulty |Title|
+| ---   | ---        | --- |
+|3055|Medium|Top Percentile Fraud|
