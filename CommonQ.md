@@ -75,6 +75,7 @@
 | ---   | ---        | --- |
 |1667|Easy|Fix Names in a Table|
 |3050|Medium|Pizza Topping Cost Analysis|
+|3059|Easy|Find All Unique Email Domains|
 
 **Percentile Calculation**
 | Number| Difficulty |Title|
