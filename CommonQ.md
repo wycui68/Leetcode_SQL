@@ -5,7 +5,8 @@
 |1251|Easy|Average Selling Price|
 |1322|Easy|Ads Performance|
 |1934|Medium|Confirmation Rate|
-|2026|Easy|Low-Quality Problems
+|2026|Easy|Low-Quality Problems|
+|3056|Medium|Snap Analysis|
 
 
 **Time Calculation**
