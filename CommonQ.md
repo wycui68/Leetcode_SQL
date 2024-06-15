@@ -77,6 +77,7 @@
 |3050|Medium|Pizza Topping Cost Analysis|
 |3059|Easy|Find All Unique Email Domains|
 |3087|Medium|Find Trending Hashtag|
+|3150|Easy|Invalid Tweets II|
 
 **Percentile Calculation**
 | Number| Difficulty |Title|
