@@ -24,7 +24,10 @@
 |1939|Easy|Users That Actively Request Confirmation Messages|
 |2394|Medium|Employees With Deductions|
 |2993|Medium|Friday Purchase I|
+|2994|Medium|Friday Purchase II|
+|3118|Medium|Friday Purchase III|
 |3124|Medium|Find Longest Calls|
+
 
 **If/case when condition**
 | Number| Difficulty |Title|
