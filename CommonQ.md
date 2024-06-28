@@ -27,6 +27,7 @@
 |2994|Medium|Friday Purchase II|
 |3118|Medium|Friday Purchase III|
 |3124|Medium|Find Longest Calls|
+|3166|Medium|Calculate Parking Fees and Duration|
 
 
 **If/case when condition**
