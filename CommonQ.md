@@ -83,6 +83,7 @@
 |3059|Easy|Find All Unique Email Domains|
 |3087|Medium|Find Trending Hashtag|
 |3150|Easy|Invalid Tweets II|
+|3198|Easy|Find Cities in Each State|
 
 **Percentile Calculation**
 | Number| Difficulty |Title|
