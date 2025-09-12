@@ -154,3 +154,5 @@
 |2944|Hard|Friday Purchase II|
 |3246|Easy|Premier League Table Ranking|Rank|
 |3252|Hard|Premier League Table Ranking II|Rank|
+|3220|Medium|Odd and Even Transactions||
+|3230|Medium|Customer Purchasing Behavior Analysis|Rank|
