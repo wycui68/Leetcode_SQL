@@ -159,3 +159,5 @@
 |3230|Medium|Customer Purchasing Behavior Analysis|Rank|
 |3262|Medium|Find Overlapping Shifts||
 |3278|Medium|Find Candidates for Data Scientist Position II|Rank|
+|3293|Medium|Calculate Product Final Price||
+|3308|Medium|Find Top Performing Driver|Rank|
