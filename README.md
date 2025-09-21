@@ -161,3 +161,6 @@
 |3278|Medium|Find Candidates for Data Scientist Position II|Rank|
 |3293|Medium|Calculate Product Final Price||
 |3308|Medium|Find Top Performing Driver|Rank|
+|3322|Medium|Premier League Table Ranking III|Rank|
+|3328|Medium|Find Cities in Each State II|concat|
+|3308|Medium|Second Highest Salary II|Rank|
