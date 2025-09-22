@@ -164,3 +164,5 @@
 |3322|Medium|Premier League Table Ranking III|Rank|
 |3328|Medium|Find Cities in Each State II|concat|
 |3308|Medium|Second Highest Salary II|Rank|
+|3415|Medium|Find Products with Three Consecutive Digits|Regexp|
+|3421|Medium|Find Students Who Improved|Rank|
