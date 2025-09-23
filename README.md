@@ -166,3 +166,5 @@
 |3308|Medium|Second Highest Salary II|Rank|
 |3415|Medium|Find Products with Three Consecutive Digits|Regexp|
 |3421|Medium|Find Students Who Improved|Rank|
+|3436|Easy|Find Valid Emails|Regexp|
+|3475|Medium|DNA Pattern Recognition|String|
