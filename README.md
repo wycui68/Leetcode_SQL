@@ -168,3 +168,5 @@
 |3421|Medium|Find Students Who Improved|Rank|
 |3436|Easy|Find Valid Emails|Regexp|
 |3475|Medium|DNA Pattern Recognition|String|
+|3521|Medium|Find Product Recommendation Pairs||
+|3564|Medium|Seasonal Sales Analysis|Rank|
