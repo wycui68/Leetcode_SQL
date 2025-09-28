@@ -170,3 +170,4 @@
 |3475|Medium|DNA Pattern Recognition|String|
 |3521|Medium|Find Product Recommendation Pairs||
 |3564|Medium|Seasonal Sales Analysis|Rank|
+|3570|Easy|Find Books with No Available Copies||
