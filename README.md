@@ -172,4 +172,5 @@
 |3564|Medium|Seasonal Sales Analysis|Rank|
 |3570|Easy|Find Books with No Available Copies||
 |3580|Medium|Find Consistently Improving Employees|Rank|
+|3586|Medium|Find COVID Recovery Patients|Date|
 |3601|Medium|Find Drivers with Improved Fuel Efficiency|Agg|
