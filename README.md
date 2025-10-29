@@ -174,4 +174,6 @@
 |3580|Medium|Find Consistently Improving Employees|Rank|
 |3586|Medium|Find COVID Recovery Patients|Date|
 |3601|Medium|Find Drivers with Improved Fuel Efficiency|Agg|
+|3611|Medium|Find Overbooked Employees|Agg|
 |3642|Easy|Find Books with Polarized Opinions|Basic|
+|3657|Medium|Find Loyal Customers|Agg|
