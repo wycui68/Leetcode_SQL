@@ -177,3 +177,4 @@
 |3611|Medium|Find Overbooked Employees|Agg|
 |3642|Easy|Find Books with Polarized Opinions|Basic|
 |3657|Medium|Find Loyal Customers|Agg|
+|3705|Medium|Find Golden Hour Customers|Agg|
