@@ -178,3 +178,4 @@
 |3642|Easy|Find Books with Polarized Opinions|Basic|
 |3657|Medium|Find Loyal Customers|Agg|
 |3705|Medium|Find Golden Hour Customers|Agg|
+|3716|Medium|Find Churn Risk Customers|Agg|
